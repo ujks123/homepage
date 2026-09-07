@@ -1,0 +1,22 @@
+<svg id="icon_gnb_메일" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.034" y1="0.108" x2="1.064" y2="0.901" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#67cbff"/>
+      <stop offset="1" stop-color="#8b71ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.901" y1="-1.06" x2="-0.11" y2="1.533" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.218" y1="0.341" x2="1" y2="1.727" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect id="BoundaryBG_ClearT" width="30" height="30" fill="none" opacity="0.132"/>
+  <g id="그룹_5976" data-name="그룹 5976" transform="translate(1.509 1)">
+    <path id="패스_7704" data-name="패스 7704" d="M0,8.832V24.9H0a1.253,1.253,0,0,0,1.254,1.253H25.722A1.253,1.253,0,0,0,26.975,24.9V8.832Z" transform="translate(0 1.85)" fill="url(#linear-gradient)"/>
+    <g id="그룹_5952" data-name="그룹 5952" transform="translate(0.002)">
+      <path id="패스_7705" data-name="패스 7705" d="M0,10.671A1.857,1.857,0,0,1,.728,9.2L12.071.48a2.317,2.317,0,0,1,2.824,0L26.256,9.2a1.857,1.857,0,0,1,.727,1.473v.158L13.341,20.264.008,10.831,0,10.671" transform="translate(-0.002 0)" fill="url(#linear-gradient-2)"/>
+      <path id="패스_7706" data-name="패스 7706" d="M20.773,3.047H4.846A1.612,1.612,0,0,0,3.234,4.659v8.25l9.374,6.717,9.778-6.715V4.659a1.612,1.612,0,0,0-1.612-1.612" transform="translate(0.675 0.638)" fill="#d0e4ff"/>
+      <path id="패스_7708" data-name="패스 7708" d="M12.5,9.093H6.258a.354.354,0,0,1-.319-.38V8.69a.355.355,0,0,1,.319-.38H12.5a.355.355,0,0,1,.319.38v.024a.354.354,0,0,1-.319.38" transform="translate(1.566 1.74)" fill="#fff"/>
+      <path id="패스_7711" data-name="패스 7711" d="M12.5,9.093H6.258a.354.354,0,0,1-.319-.38V8.69a.355.355,0,0,1,.319-.38H12.5a.355.355,0,0,1,.319.38v.024a.354.354,0,0,1-.319.38" transform="translate(1.566 -0.934)" fill="#fff"/>
+      <path id="패스_7709" data-name="패스 7709" d="M12.5,11.305H6.258a.354.354,0,0,1-.319-.38V10.9a.355.355,0,0,1,.319-.38H12.5a.355.355,0,0,1,.319.38v.024a.354.354,0,0,1-.319.38" transform="translate(1.566 2.202)" fill="#fff"/>
+    </g>
+    <path id="패스_7710" data-name="패스 7710" d="M11.731,14.681.716,23.147a1.849,1.849,0,0,0-.658,1,1.237,1.237,0,0,0,1.184.908H25.71a1.236,1.236,0,0,0,1.186-.926,1.85,1.85,0,0,0-.652-.977L15.212,14.679a2.856,2.856,0,0,0-3.482,0" transform="translate(0.012 2.949)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

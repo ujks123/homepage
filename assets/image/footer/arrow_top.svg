@@ -1,0 +1,8 @@
+<svg id="icon_상단이동" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="투명배경" width="32" height="32" fill="none"/>
+  <g id="그룹_4461" data-name="그룹 4461" transform="translate(8.079 28.148) rotate(-90)">
+    <path id="패스_7692" data-name="패스 7692" d="M0,0H16.09" transform="translate(0 7.967)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <path id="패스_13" data-name="패스 13" d="M0,0,6.47,6.77,0,13.539" transform="translate(10.622 1.197)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="패스_4304" data-name="패스 4304" d="M0,0H13.56" transform="translate(23.367 1.197) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

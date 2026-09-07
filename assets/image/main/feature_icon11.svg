@@ -1,0 +1,13 @@
+<svg id="icon_기능_메일관리__메일라벨" data-name="icon_기능_메일관리_ 메일라벨" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <rect id="BoundaryBG_ClearT_" data-name="BoundaryBG_ClearT       " width="44" height="44" fill="none"/>
+  <g id="그룹_13030" data-name="그룹 13030" transform="translate(4.01 5.149)">
+    <path id="패스_13551" data-name="패스 13551" d="M5.622,21.716H2.173A1.423,1.423,0,0,1,.75,20.293V2.733" transform="translate(0 0.161)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="선_524" data-name="선 524" y2="5.299" transform="translate(31.185 2.894)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13552" data-name="패스 13552" d="M.75,19.352v-.491a1.012,1.012,0,0,1,.3-.719l10.279-7.691" transform="translate(0 0.79)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13553" data-name="패스 13553" d="M27.975,6.038l2.688-1.811a1.187,1.187,0,0,0,.521-.982V1.932A1.182,1.182,0,0,0,30,.75H1.933A1.182,1.182,0,0,0,.75,1.932V3.245a1.187,1.187,0,0,0,.521.982L11.912,11.4" transform="translate(0 0)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13554" data-name="패스 13554" d="M19.472,9.681l-2.392.152c-.036,0-.07,0-.106,0a2.8,2.8,0,0,0-2.746,2.852L13.71,20.8a2.133,2.133,0,0,0,.613,1.419l9.759,9.759a2.45,2.45,0,0,0,3.449-.208l8.633-8.633a2.451,2.451,0,0,0,.207-3.448L26.614,9.931A2.136,2.136,0,0,0,25.2,9.317l-1.576.1" transform="translate(1.055 0.698)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13555" data-name="패스 13555" d="M18.269,13.876a2.1,2.1,0,1,1,0,2.971,2.1,2.1,0,0,1,0-2.971" transform="translate(1.376 1.019)" fill="#6988ff"/>
+    <path id="패스_13556" data-name="패스 13556" d="M11.929,13.364a2.455,2.455,0,0,0-.663.909L7.954,20.607a1.88,1.88,0,0,0-.014,1.358L12.3,33.29a2.155,2.155,0,0,0,2.845,1.064l5.628-2.165" transform="translate(0.576 1.027)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13557" data-name="패스 13557" d="M12.384,5.758c2.02,1.281,4.43.537,6.636.994,2.654.645,3.657,3.772,2.746,6.146a18.994,18.994,0,0,1-1.008,1.882" transform="translate(0.947 0.408)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

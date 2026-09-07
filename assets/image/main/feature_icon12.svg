@@ -1,0 +1,10 @@
+<svg id="icon_기능_메일관리_발송취소" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <rect id="BoundaryBG_ClearT_" data-name="BoundaryBG_ClearT       " width="44" height="44" fill="none"/>
+  <g id="그룹_13032" data-name="그룹 13032" transform="translate(295.763 49.975)">
+    <path id="패스_13558" data-name="패스 13558" d="M32.613,13.519,35.528,2.207A1.166,1.166,0,0,0,34,.821L1.514,12.78a1.165,1.165,0,0,0-.076,2.156L18.4,22.56" transform="translate(-292.529 -42.295)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="선_525" data-name="선 525" x1="26.674" y2="15.946" transform="translate(-284.727 -40.442)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13559" data-name="패스 13559" d="M6.806,17l4.165,9.879a.975.975,0,0,0,1.65.245L17.092,21.6" transform="translate(-292.23 -41.493)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13560" data-name="패스 13560" d="M35.038,22.432A7.342,7.342,0,1,1,27.7,15.09,7.342,7.342,0,0,1,35.038,22.432Z" transform="translate(-292 -41)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="선_526" data-name="선 526" y1="9.687" x2="9.687" transform="translate(-269.076 -23.523)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

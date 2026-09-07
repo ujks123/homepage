@@ -1,0 +1,287 @@
+@media all and (max-width: 1279px) {
+  br.pc, br.mobile {display: none !important;}
+  br.tablet {display: inline !important;}
+
+  header {padding: 0 20px;}
+
+  footer > div {padding: 70px 20px 120px;}
+
+  .container > main .visual > .outer {padding: 65px 20px 134px;}
+  .container > main .visual > .outer::before {background-size: contain;}
+  .container > main .visual > .outer > .visual_wrap::after {width: 105%; height: 100%; top: -33%;}
+  .container > main .visual > .outer > .visual_wrap .visual_pc {width: 100%; height: auto;}
+  .container > main .visual > .outer > .visual_wrap .visual_mobile {width: 17.7vw; right: 4%; bottom: -1.5%;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.bot {bottom: 18%;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.alarm1 {left: 58%; bottom: 43%;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.alarm1 > img {width: 24.2vw;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.alarm2 {left: 58%; bottom: 28%;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.alarm2 > img {width: 26.3vw;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.layer1 > img {width: 27.4vw;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.layer2 {right: 10%; bottom: 12%;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.layer2 > img {width: 35.4vw;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.layer3 > img {width: 27.1vw;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.layer4 {right: 30%; top: 19.8%;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.layer4 > img {width: 12.7vw;}
+
+  .container > main .point > .inner {padding: 98px 20px 60px;}
+  .container > main .point .point_wrap {padding: 0 20px;}
+  .container > main .point .point_wrap .swiper-slide > div:nth-of-type(2) {height: 100%; justify-content: center;}
+  .container > main .point .point_wrap .swiper-slide > div > a {display: none;}
+  .container > main .point .point_wrap .swiper-slide > div > img {width: auto; height: 350px;}
+
+  .container > main .preview > .inner {padding: 98px 20px 90px;}
+  .container > main .preview .preview_wrap .swiper-slide > li {height: 412px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li > div:nth-of-type(1) {padding: 40px 0 60px 40px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li > div > h1 {font-size: 22px; letter-spacing: -0.66px; line-height: 31px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(1) > div > img {right: -60%;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(2) > div > img {right: -40%;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(3) > div > img {right: -30%;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(4) > div > img {right: -65%;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div:nth-of-type(1) {padding: 40px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div > h1 {font-size: 22px; letter-spacing: -0.66px; line-height: 31px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div > p {font-size: 20px; letter-spacing: -0.6px; line-height: 30px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div > span {font-size: 17px; letter-spacing: -0.51px; line-height: 32px; padding-top: 20px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(1) > div:nth-of-type(2) {max-width: 420px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(2) > div > img {right: -25%; top: 12%;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(3) > div > img {right: -25%;}
+
+  .container > main .merit > .inner {padding: 98px 20px 60px;}
+  .container > main .merit .merit_wrap {padding: 0 20px;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li > img + img {margin-left: 40px; max-width: 60%;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li > img:has(+ img) {max-width: 40%;}
+
+  .container > main .feature > .inner {padding: 98px 20px 60px;}
+  .container > main .feature .feature_wrap {padding: 0 20px;}
+
+  .container > main .report > .inner {padding: 98px 20px 60px;}
+  .container > main .report .report_wrap {padding: 0 20px;}
+
+  .container > main .notification > .inner {padding: 126px 20px 114px;}
+
+  .container > main .introduce > .inner {padding: 90px 20px 92px;}
+
+  .container > main .help > .inner {padding: 82px 20px 100px;}
+
+  .container.inquiry > main > section {padding: 0 20px;}
+}
+
+@media all and (max-width: 1023px) {
+  header > div {justify-content: space-between;}
+  header :where(.gnb, .etc) {display: none !important;}
+  header .mobile_menu {display: flex;}
+
+  footer .scroll_top {right: 20px; top: -80px;}
+
+  .container > main .visual > .outer {padding: 36px 20px 70px;}
+  .container > main .visual > .outer::before {bottom: -1%;}
+  .container > main .visual > .outer > .inner > h2 {font-size: 34px; letter-spacing: -1.36px; line-height: 38px;}
+  .container > main .visual > .outer > .inner > h1 {font-size: 30px; letter-spacing: -0.84px; line-height: 29px;}
+  .container > main .visual > .outer > .inner > p {font-size: 14px; letter-spacing: -0.56px; line-height: 20px; padding-top: 10px;}
+  .container > main .visual > .outer > .inner > div {padding: 30px 0 46px;}
+  .container > main .visual > .outer > .inner > div > a {width: 134px; height: 40px; font-size: 15px;}
+  .container > main .visual > .outer > .inner > div > a + a {margin-left: 8px;}
+
+  .container > main .point {padding-bottom: 30px;}
+  .container > main .point > .inner {padding: 46px 20px 32px;}
+  .container > main .point > .inner > p {font-size: 18px;}
+  .container > main .point > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
+  .container > main .point > .inner > div {padding-top: 30px;}
+  .container > main .point > .inner > div > div > a {padding: 0 18px; height: 30px; font-size: 16px; letter-spacing: -0.64px; line-height: 48px;}
+  .container > main .point > .inner > div > div > a + a {margin-left: 14px;}
+  .container > main .point .point_wrap {padding: 0 20px;}
+  .container > main .point .point_wrap .swiper-slide {padding: 18px 26px; border-radius: 10px;}
+  .container > main .point .point_wrap .swiper-slide > div:nth-of-type(1) {padding: 12px 0 0 0;}
+  .container > main .point .point_wrap .swiper-slide > div > span {font-size: 16px; letter-spacing: -0.64px; line-height: 30px; padding-bottom: 16px;}
+  .container > main .point .point_wrap .swiper-slide > div > h1 {font-size: 22px; letter-spacing: -0.88px; line-height: 30px; padding-bottom: 14px;}
+  .container > main .point .point_wrap .swiper-slide > div > p {font-size: 15px; letter-spacing: -0.6px; line-height: 23px; padding-bottom: 12px;}
+  .container > main .point .point_wrap .swiper-slide > div > img {width: auto; height: 242px;}
+
+  .container > main .preview > .inner {padding: 46px 20px 48px;}
+  .container > main .preview > .inner > p {font-size: 18px; letter-spacing: -0.72px; line-height: 30px;}
+  .container > main .preview > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
+  .container > main .preview .preview_tabs {padding-top: 30px;}
+  .container > main .preview .preview_tabs > a {font-size: 16px; letter-spacing: -0.64px; line-height: 48px; height: 30px; padding: 0 18px;}
+  .container > main .preview .preview_tabs > a + a {margin-left: 10px;}
+  .container > main .preview .preview_wrap {padding-top: 32px;}
+  .container > main .preview .preview_wrap .swiper-slide {gap: 18px;}
+  .container > main .preview .preview_wrap .swiper-slide > li {height: 298px; border-radius: 10px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience {grid-template-columns: 1fr;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li {grid-column: 1 !important;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li > div:nth-of-type(1) {padding: 20px 0 28px 20px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li > div > h1 {font-size: 16px; letter-spacing: -0.48px; line-height: 22px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li > div:nth-of-type(2) {padding-top: 26px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(1) > div > img {right: -10%; width: 310px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(2) > div > img {right: -9%; width: 295px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(3) > div > img {right: -7%; width: 280px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(4) > div > img {right: -19%; top: 30px; width: 380px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:hover > div > img {transform: none;}
+  .container > main .preview .preview_wrap .swiper-slide.security {grid-template-columns: 1fr;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li {grid-column: 1 !important;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div:nth-of-type(1) {padding: 32px 28px 38px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div > h1 {font-size: 20px; letter-spacing: -0.8px; line-height: 30px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div > p {font-size: 16px; letter-spacing: -0.64px; line-height: 23px; padding-top: 7px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div > span {font-size: 14px; letter-spacing: -0.56px; line-height: 26px; padding-top: 10px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(1) > div:nth-of-type(2) {max-width: 280px; margin-right: 28px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(2) > div > img {right: -5%; width: 350px; top: 0;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(3) > div > img {right: -10%; width: 400px; top: 0;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:hover > div > img {transform: none;}
+
+  .container > main .merit {background-color: #F5F7FD; padding-bottom: 30px;}
+  .container > main .merit > .inner {padding: 46px 20px 32px;}
+  .container > main .merit > .inner > div > p {font-size: 18px; letter-spacing: -0.54px; line-height: 30px;}
+  .container > main .merit > .inner > div > h1 {font-size: 24px; letter-spacing: -0.72px; line-height: 32px; padding-top: 16px;}
+  .container > main .merit > .inner > div > div > button {width: 28px; height: 28px; min-width: 28px;}
+  .container > main .merit .merit_wrap .swiper-slide {padding: 28px 24px 24px;}
+  .container > main .merit .merit_wrap .swiper-slide > p {font-size: 20px; letter-spacing: -0.8px; line-height: 28px;}
+  .container > main .merit .merit_wrap .swiper-slide > span {margin-top: 16px; font-size: 15px; letter-spacing: -0.6px; line-height: 24px;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li {padding: 20px; height: 216px; min-width: 0;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li + li {margin-left: 16px;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li > p {font-size: 16px; letter-spacing: -0.48px; line-height: 36px; padding-bottom: 0;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li > img {width: auto; max-width: 100%; flex: initial; height: 100%;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li > img + img {height: 100%; width: auto; min-width: 0; margin-left: 20px;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li > img:has(+ img) {height: 100%; width: auto; min-width: 0;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li:has(img + img) {padding: 30px; justify-content: center;}
+
+  .container > main .feature {padding-bottom: 40px;}
+  .container > main .feature > .inner {padding: 48px 20px 32px;}
+  .container > main .feature > .inner > p {font-size: 18px; letter-spacing: -0.72px; line-height: 30px;}
+  .container > main .feature > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
+  .container > main .feature > .inner > div {padding-top: 30px;}
+  .container > main .feature > .inner > div > div {gap: 6px;}
+  .container > main .feature > .inner > div > div > a {height: 35px; padding: 0 18px; font-size: 16px; letter-spacing: -0.48px;}
+  .container > main .feature .feature_wrap .swiper-slide {gap: 16px; grid-template-columns: repeat(2, 1fr);}
+  .container > main .feature .feature_wrap .swiper-slide > div > div:last-of-type {padding-top: 12px;}
+  .container > main .feature .feature_wrap .swiper-slide > div > span {min-height: 52px;}
+
+  .container > main .report {padding-bottom: 66px;}
+  .container > main .report > .inner {padding: 48px 20px 32px;}
+  .container > main .report > .inner > div > p {font-size: 18px; letter-spacing: -0.72px; line-height: 30px;}
+  .container > main .report > .inner > div > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
+  .container > main .report > .inner > div > div > button {width: 28px; height: 28px; min-width: 28px;}
+  .container > main .report .report_wrap .swiper-slide {padding: 20px 34px 45px;}
+  /* .container > main .report .report_wrap .swiper-slide:hover {display: none;} */
+  .container > main .report .report_wrap .swiper-slide > div > div {padding-top: 0;}
+  /* .container > main .report .report_wrap .swiper-slide > div > div:nth-of-type(2) {display: none;} */
+
+  .container > main .client > div {padding: 58px 0 52px;}
+  .container > main .client > div > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 34px; padding-bottom: 50px;}
+  .container > main .client > div > div:not(.marquee_wrap) {display: none;}
+  .container > main .client .marquee_track > div {height: 38px; padding: 0 10px;}
+  .container > main .client .marquee_track > div + div {margin-left: 12px;}
+  .container > main .client .marquee + .marquee {margin-top: 20px;}
+
+  .container > main .notification > .inner {padding: 48px 20px 60px;}
+  .container > main .notification > .inner > div > h1 {font-size: 24px; letter-spacing: -0.96px;}
+  .container > main .notification > .inner > div > a {display: none;}
+  .container > main .notification > .inner > ul {padding-top: 36px;}
+  .container > main .notification > .inner > ul > li + li {margin-top: 14px;}
+  .container > main .notification > .inner > ul > li > a {font-size: 16px; letter-spacing: -0.48px; line-height: 28px;}
+  .container > main .notification > .inner > ul > li > span {font-size: 14px; letter-spacing: -0.42px; line-height: 28px;}
+
+  .container > main .introduce > .inner {padding: 65px 20px 62px;}
+  .container > main .introduce > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px;}
+  .container > main .introduce > .inner > ul {margin-top: 46px;}
+  .container > main .introduce > .inner > ul > li > div::before {top: 15px;}
+  .container > main .introduce > .inner > ul > li > div + div {padding-top: 32px;}
+  .container > main .introduce > .inner > ul > li > div > i {width: 92px; height: 65px; min-width: 92px; background-size: cover !important;}
+  .container > main .introduce > .inner > ul > li > div > h6 {padding-top: 10px; font-size: 26px; letter-spacing: -0.52px;}
+  .container > main .introduce > .inner > ul > li > div > p {font-size: 16px; letter-spacing: -0.32px; line-height: 22px;}
+  .container > main .introduce > .inner > ul > li > div > span {display: none;}
+
+  .container > main .help > .inner {padding: 48px 20px;}
+  .container > main .help > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 30px;}
+  .container > main .help > .inner > ul {padding-top: 32px; gap: 16px; grid-template-columns: repeat(2, 1fr);}
+  .container > main .help > .inner > ul > li > a {padding: 22px 22px 28px;}
+  .container > main .help > .inner > ul > li > a > i {width: 55px; height: 55px; min-width: 55px;}
+  .container > main .help > .inner > ul > li > a > div {padding-top: 28px;}
+  .container > main .help > .inner > ul > li > a > div::before {top: 14px; width: 12px; height: 1px;}
+  .container > main .help > .inner > ul > li > a > div > p {font-size: 13px; letter-spacing: -0.65px;}
+  .container > main .help > .inner > ul > li > a > div > span {font-size: 17px; letter-spacing: -0.34px;}
+
+  .container > main .inquiry > .inner {padding: 74px 20px 76px;}
+  .container > main .inquiry > .inner > h1 {font-size: 22px; letter-spacing: -0.88px; line-height: 36px;}
+  .container > main .inquiry > .inner > h1 > strong {font-size: 30px; letter-spacing: -1.2px; line-height: 36px;}
+  .container > main .inquiry > .inner > div > a {height: 44px; padding: 0 58px; font-size: 21px;}
+
+  .container.inquiry > main section > .inner > form > ul {gap: 25px;}
+}
+
+@media all and (max-width: 767px) {
+  br.pc, br.tablet {display: none !important;}
+  br.mobile {display: inline !important;}
+
+  .modal {padding: 0 20px;}
+
+  footer .break {display: flex;}
+  footer > div {padding: 48px 20px 86px;}
+  .footer_info {flex-direction: column; align-items: flex-start; padding-bottom: 24px;}
+  .footer_info > div + div {padding-top: 26px;}
+  .footer_info > div:nth-of-type(1) > div {padding-top: 36px;}
+  .footer_info > div:nth-of-type(2) > div {min-width: 144px;}
+  .footer_link {flex-direction: column; align-items: flex-start; padding-top: 14px;}
+  .footer_link > div {width: 100%;}
+  .footer_link > div.copyright {padding-bottom: 14px;}
+  .footer_link > div.sitemap {padding-bottom: 24px; flex-wrap: wrap;}
+  .footer_link > div.sitemap > a {margin-top: 10px;}
+  .footer_link > div.channel {padding-top: 24px;}
+  .footer_link > div + div {border-top: 1px solid #4A4E53;}
+
+  .container > main .visual > .outer {padding: 36px 20px 46px;}
+  .container > main .visual > .outer::before {bottom: -6%;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.bot {bottom: 14%;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.layer2 {bottom: 10%;}
+
+  .container > main .point .point_wrap .swiper-slide {flex-direction: column; align-items: center;}
+  .container > main .point .point_wrap .swiper-slide > div + div {padding-left: 0; margin-top: auto;}
+  .container > main .point .point_wrap .swiper-slide > div > img {width: 100%; height: auto;}
+
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(4) > div > img {right: -27%;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(1) {flex-direction: column; height: 406px; align-items: flex-end;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(1) > div:nth-of-type(1) {width: 100%;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(1) > div:nth-of-type(2) {margin-right: 15px; max-width: 300px; width: 100%;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(3) > div > img {right: -14%;}
+
+  .container > main .merit .merit_wrap .swiper-slide > ul > li.tablet {display: none;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li:has(img + img) {padding: 15px 30px;}
+
+  .container > main .introduce > .inner > ul {grid-template-columns: repeat(2, 1fr); border: none; gap: 30px 0;}
+  .container > main .introduce > .inner > ul > li:nth-of-type(3) {border-left: none;}
+
+  .container.inquiry > main section > .inner {padding: 50px 0 80px;}
+  .container.inquiry > main section > .inner > div {padding-bottom: 60px;}
+  .container.inquiry > main section > .inner > div > h1 {font-size: 34px;}
+  .container.inquiry > main section > .inner > div > p {font-size: 16px; padding: 35px 0;}
+  .container.inquiry > main section > .inner > div > div {padding: 15px 35px;}
+  .container.inquiry > main section > .inner > div > div > i {width: 18px; height: 18px; min-width: 18px;}
+  .container.inquiry > main section > .inner > div > div > p {font-size: 15px;}
+  .container.inquiry > main section > .inner > form > ul > li > textarea {height: 150px;}
+  .container.inquiry > main section > .inner > form > div > button {font-size: 18px; height: 56px; margin: 30px auto 0;}
+}
+
+@media all and (max-width: 479px) {
+  .footer_info > div:nth-of-type(2) > div {min-width: 0;}
+
+  .container > main .visual > .outer::before {bottom: -10%;}
+  .container > main .visual > .outer > .visual_wrap .visual_float.layer3 {left: calc(50% + 10px);}
+
+  .container > main .feature .feature_wrap .swiper-slide {gap: 16px; grid-template-columns: 1fr;}
+
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(4) > div > img {right: -41%;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(1) > div:nth-of-type(2) {max-width: 230px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(2) > div > img {right: -30%;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(3) > div > img {right: -45%;}
+
+  .container > main .merit .merit_wrap .swiper-slide > ul > li.mobile {display: none;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li > img.mobile {display: none;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li:has(img + img) {justify-content: center; padding: 30px;}
+  .container > main .merit .merit_wrap .swiper-slide > ul > li > img:has(+ img) {min-width: 100%;}
+
+  .container.inquiry > main section > .inner > form > ul {grid-template-columns: 1fr;}
+  .container.inquiry > main section > .inner > form > ul > li > textarea {height: 120px;}
+  .container.inquiry > main section > .inner > form > div > ul > li > label > input {width: 20px; height: 20px; min-width: 20px; margin-right: 6px;}
+  .container.inquiry > main section > .inner > form > div > ul > li > label > p {font-size: 14px;}
+  .container.inquiry > main section > .inner > form > div > ul > li > button {font-size: 14px;}
+  .container.inquiry > main section > .inner > form .captcha > div > div {flex: 1;}
+  .container.inquiry > main section > .inner > form .captcha > div > div > img {width: calc(100% - 100px);}
+  .container.inquiry > main section > .inner > form .captcha > div > input {width: 100%;}
+}

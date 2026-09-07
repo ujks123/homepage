@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>웹메일 솔루션 전문기업, (주)나라비전</title>
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/media.css">
+</head>
+<body>
+  <div class="container inquiry">
+    <main>
+      <section>
+        <div class="inner">
+          <div>
+            <h1>문의</h1>
+            <p>나라비전 제품에 대한 문의는 <br class="mobile">담당자가 확인 후 빠르게 회신 드립니다.</p>
+            <div>
+              <i></i>
+              <p>제품 문의 1544-4605 / sales@nara.co.kr</p>
+            </div>
+          </div>
+          <form>
+            <ul>
+              <li>
+                <label for="inquiryCompany">회사명</label>
+                <input type="text" id="inquiryCompany" placeholder="회사명을 입력해주세요." required>
+              </li>
+              <li>
+                <label for="inquiryName">이름</label>
+                <input type="text" id="inquiryName" placeholder="이름을 입력해주세요." required>
+              </li>
+              <li>
+                <label for="inquiryDepartment">부서</label>
+                <input type="text" id="inquiryDepartment" placeholder="부서명을 입력해주세요." required>
+              </li>
+              <li>
+                <label for="inquiryTitle">직함</label>
+                <input type="text" id="inquiryTitle" placeholder="직함을 입력해주세요." required>
+              </li>
+              <li>
+                <label for="inquiryScale">회사규모</label>
+                <input type="text" id="inquiryScale" placeholder="예시) 100명 이하" required>
+              </li>
+              <li>
+                <label for="inquiryNumber">연락처</label>
+                <input type="text" id="inquiryNumber" placeholder="연락처를 입력해주세요." required>
+              </li>
+              <li>
+                <label for="inquiryMail">이메일</label>
+                <input type="text" id="inquiryMail" placeholder="이메일을 입력해주세요." required>
+              </li>
+              <li>
+                <label for="inquirySort">문의 분류</label>
+                <select id="inquirySort" required>
+                  <option value="" selected>메일</option>
+                  <option value="">모바일 메일</option>
+                  <option value="">웹메일 확장</option>
+                  <option value="">아카이브</option>
+                  <option value="">메일 클라우드</option>
+                  <option value="">기타</option>
+                </select>
+              </li>
+              <li>
+                <textarea placeholder="궁금하신 점을 자세히 적어주실수록 자세한 상담이 가능합니다."></textarea>
+              </li>
+            </ul>
+            <div>
+              <ul>
+                <li>
+                  <label>
+                    <input type="checkbox" required>
+                    <p><span>개인정보 수집 및 이용방침</span>에 동의 (필수)</p>
+                  </label>
+                  <button type="button" data-modal-open="privacy">상세보기</button>
+                </li>
+                <li>
+                  <label>
+                    <input type="checkbox">
+                    <p><span>마케팅 정보 수신 동의</span> (선택)</p>
+                  </label>
+                  <button type="button" data-modal-open="marketing">상세보기</button>
+                </li>
+              </ul>
+              <div class="captcha">
+                <p>아래 이미지를 보이는 대로 입력해 주세요.</p>
+                <div>
+                  <div>
+                    <img src="" alt="image">
+                    <button type="button">새로고침</button>
+                  </div>
+                  <input type="text" placeholder="자동입력 방지문자" required>
+                </div>
+              </div>
+            </div>
+            <div>
+              <button type="submit">문의하기</button>
+            </div>
+          </form>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- 모달 _ 개인정보 -->
+  <div class="modal modal_inquiry" data-modal="privacy">
+    <div class="modal_overlay" data-modal-close></div>
+    <div class="modal_dialog">
+      <button type="button" class="modal_close" data-modal-close></button>
+      <div class="modal_content">
+        <h1>개인정보 수집 및 이용안내</h1>
+        <table>
+          <tbody>
+            <tr>
+              <th>구분</th>
+              <td><b>제품문의</b></td>
+            </tr>
+            <tr>
+              <th>수집항목</th>
+              <td><b>(필수정보) 회사명, 이름, 부서, 직함, 회사규모, 연락처, 이메일</b></td>
+            </tr>
+            <tr>
+              <th>수집 및 이용목적</th>
+              <td>서비스 문의 답변, 상담 신청 접수 및 처리 결과 회신</td>
+            </tr>
+          </tbody>
+        </table>
+        <div>
+          <h6>개인정보의 보유 및 이용기간</h6>
+          <p>추가 고객문의 답변을 위해 신청 후 3개월까지 보관합니다. 단, 관계 법령의 규정에 의해 보존할 필요가 있는 경우 일정기간 보관할 수 있습니다.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 모달 _ 마케팅 -->
+  <div class="modal modal_inquiry" data-modal="marketing">
+    <div class="modal_overlay" data-modal-close></div>
+    <div class="modal_dialog">
+      <button type="button" class="modal_close" data-modal-close></button>
+      <div class="modal_content">
+        <h1>마케팅 정보 수신 동의</h1>
+        <div>
+          <p>마케팅 정보 수신에 동의한 경우에 한해 나라비전이 제공하는 제품 관련 소식 및 이벤트 안내를 드립니다.<br>수집하는 개인정보의 항목, 개인정보의 수집 및 이용목적, 개인정보의 보유 및 이용기간을 안내 드리오니 자세히 읽은 후 동의하여 주시기 바랍니다.</p>
+        </div>
+        <table>
+          <caption>[마케팅 정보제공을 위해 수집하는 개인정보]</caption>
+          <tbody>
+            <tr>
+              <th>구분</th>
+              <td><b>수신동의 선택</b></td>
+            </tr>
+            <tr>
+              <th>수집항목</th>
+              <td><b>회사명, 이름, 부서, 직함, 회사규모, 연락처, 이메일</b></td>
+            </tr>
+            <tr>
+              <th>수집 및 이용목적</th>
+              <td>당사 서비스 홍보 및 마케팅 정보제공</td>
+            </tr>
+            <tr>
+              <th>보관기간</th>
+              <td>수집·이용 동의일로부터 24개월 (단, 요청 시 삭제)</td>
+            </tr>
+          </tbody>
+        </table>
+        <div>
+          <p>이용자는 마케팅 수집 활용을 거부할 수 있으며, 동의를 거부하실 경우 최신 정보 수신 및 제공되는 자료 열람이 제한될 수 있습니다.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../assets/js/include.js"></script>
+  <script src="../assets/js/modal.js"></script>
+</body>
+</html>

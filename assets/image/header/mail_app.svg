@@ -1,0 +1,28 @@
+<svg id="icon_gnb_메일앱" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.072" y1="0.074" x2="1.051" y2="0.902" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#67cbff"/>
+      <stop offset="1" stop-color="#8b71ff"/>
+    </linearGradient>
+  </defs>
+  <rect id="BoundaryBG_ClearT" width="30" height="30" fill="none" opacity="0.132"/>
+  <g id="그룹_5966" data-name="그룹 5966" transform="translate(0.158 1)">
+    <g id="그룹_5981" data-name="그룹 5981" transform="translate(5)">
+      <rect id="사각형_2891" data-name="사각형 2891" width="19.594" height="28" rx="3" fill="url(#linear-gradient)"/>
+      <path id="패스_7712" data-name="패스 7712" d="M14.846,2.439H10.12a.468.468,0,1,1,0-.936h4.726a.468.468,0,1,1,0,.936" transform="translate(-2.687 0.497)" fill="#fff"/>
+    </g>
+    <g id="그룹_5978" data-name="그룹 5978" transform="translate(0 12.5)">
+      <path id="투명그림자" d="M14.264,20.926H2.12A1.424,1.424,0,0,1,.7,19.5V13.2A1.425,1.425,0,0,1,2.12,11.77H14.264A1.425,1.425,0,0,1,15.688,13.2V19.5a1.424,1.424,0,0,1-1.424,1.424" transform="translate(0.097 -10.974)" opacity="0.08"/>
+      <path id="패스_7715" data-name="패스 7715" d="M13.838,20.23H1.155A1.155,1.155,0,0,1,0,19.075V12.229a1.155,1.155,0,0,1,1.155-1.155H13.838a1.155,1.155,0,0,1,1.155,1.155v6.846a1.155,1.155,0,0,1-1.155,1.155" transform="translate(0 -11.074)" fill="#a4cbfd"/>
+      <path id="패스_7716" data-name="패스 7716" d="M7.623,14.7H3.059a.414.414,0,0,1,0-.828H7.623a.414.414,0,1,1,0,.828" transform="translate(0.373 -10.789)" fill="#fff"/>
+      <path id="패스_7717" data-name="패스 7717" d="M7.623,16.65H3.059a.414.414,0,0,1,0-.828H7.623a.414.414,0,0,1,0,.828" transform="translate(0.373 -10.513)" fill="#fff"/>
+    </g>
+    <g id="그룹_5979" data-name="그룹 5979" transform="translate(11.4 7.601)">
+      <path id="투명그림자-2" data-name="투명그림자" d="M25.3,17.735H11.524A1.836,1.836,0,0,1,9.688,15.9V9.2a1.837,1.837,0,0,1,1.836-1.837H25.3A1.835,1.835,0,0,1,27.132,9.2v6.7A1.834,1.834,0,0,1,25.3,17.735" transform="translate(-9.688 -6.505)" opacity="0.08"/>
+      <path id="패스_7719" data-name="패스 7719" d="M26.618,16.982H11.692a1.259,1.259,0,0,1-1.26-1.26V7.87a1.26,1.26,0,0,1,1.26-1.26H26.618a1.26,1.26,0,0,1,1.26,1.26v7.853a1.259,1.259,0,0,1-1.26,1.26" transform="translate(-9.584 -6.61)" fill="#cbe1ff"/>
+      <circle id="타원_160" data-name="타원 160" cx="1" cy="1" r="1" transform="translate(5.571 4.186)" fill="#fff"/>
+      <circle id="타원_161" data-name="타원 161" cx="1" cy="1" r="1" transform="translate(8.571 4.186)" fill="#fff"/>
+      <circle id="타원_162" data-name="타원 162" cx="1" cy="1" r="1" transform="translate(11.571 4.186)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

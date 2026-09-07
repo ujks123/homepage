@@ -1,0 +1,9 @@
+<svg id="icon_기능_UX_대화형보기" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <rect id="BoundaryBG_ClearT_" data-name="BoundaryBG_ClearT       " width="44" height="44" fill="none"/>
+  <g id="그룹_13023" data-name="그룹 13023" transform="translate(4.537 8.746)">
+    <rect id="사각형_4646" data-name="사각형 4646" width="33.426" height="10.951" rx="2.268" transform="translate(0.75 0.75)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="선_516" data-name="선 516" x2="6.297" transform="translate(4.79 5.363)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13532" data-name="패스 13532" d="M31.908,15.879H3.017A2.267,2.267,0,0,0,.75,18.147v6.415A2.267,2.267,0,0,0,3.017,26.83h22.56l3.371,2.8c.426.354,1.155.1,1.155-.4V26.83h1.805a2.268,2.268,0,0,0,2.268-2.268V18.147A2.268,2.268,0,0,0,31.908,15.879Z" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="선_517" data-name="선 517" x1="6.297" transform="translate(5.245 20.492)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

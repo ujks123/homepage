@@ -1,0 +1,11 @@
+<svg id="icon_기능_ai_내용요약" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <rect id="BoundaryBG_ClearT_" data-name="BoundaryBG_ClearT       " width="44" height="44" fill="none"/>
+  <path id="패스_12808" data-name="패스 12808" d="M34,16.979V32a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V23.089" transform="translate(38 41) rotate(180)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+  <path id="패스_3002" data-name="패스 3002" d="M537.745,140.85l1.077,2.73a4.014,4.014,0,0,0,2.238,2.238l2.73,1.077-2.73,1.077a3.986,3.986,0,0,0-2.238,2.238l-1.077,2.73-1.068-2.73a4.014,4.014,0,0,0-2.238-2.238l-2.73-1.077,2.73-1.077a3.986,3.986,0,0,0,2.238-2.238Z" transform="translate(-501.732 -120.432)" fill="#6988ff"/>
+  <path id="패스_3003" data-name="패스 3003" d="M531.355,151.5l.845,2.135a3.1,3.1,0,0,0,1.746,1.746l2.135.845-2.135.836a3.1,3.1,0,0,0-1.746,1.746l-.845,2.135-.854-2.135a3.076,3.076,0,0,0-1.746-1.746l-2.135-.836,2.135-.845a3.1,3.1,0,0,0,1.746-1.746l.845-2.126Z" transform="translate(-501.368 -120.193)" fill="#6988ff"/>
+  <path id="패스_13502" data-name="패스 13502" d="M64.729,61.037H80.464" transform="translate(-52.289 -48.73)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="2"/>
+  <path id="패스_13503" data-name="패스 13503" d="M64.729,61.037H80.464" transform="translate(-52.289 -43.73)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="2"/>
+  <path id="패스_13504" data-name="패스 13504" d="M64.729,61.037h9.478" transform="translate(-52.289 -38.73)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="2"/>
+  <path id="패스_13505" data-name="패스 13505" d="M64.919,59.021H87" transform="translate(-60.919 -30.73)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="1 2.5"/>
+  <path id="패스_13506" data-name="패스 13506" d="M22.442,13.31,20.329,11.7a.759.759,0,0,0-1.144,0L17.071,13.31a.759.759,0,0,1-1.146,0L13.814,11.7a.76.76,0,0,0-1.146,0L10.555,13.31a.758.758,0,0,1-1.144,0L7.3,11.7a.76.76,0,0,0-1.146,0L4.04,13.31a.759.759,0,0,1-1.146,0V8.428" transform="translate(1.5 24.284)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="icon_기능_보안_보안메일" xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <rect id="BoundaryBG_ClearT_" data-name="BoundaryBG_ClearT       " width="44" height="44" fill="none"/>
+  <g id="그룹_13035" data-name="그룹 13035" transform="translate(3.25 4.725)">
+    <path id="패스_13561" data-name="패스 13561" d="M10.427,24.18H2.355A1.605,1.605,0,0,1,.75,22.575V2.767" transform="translate(0 0.403)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="선_527" data-name="선 527" y2="8.677" transform="translate(35.081 3.169)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13562" data-name="패스 13562" d="M.75,20.655V20.1a1.132,1.132,0,0,1,.341-.811l11.594-8.676" transform="translate(0 1.969)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13563" data-name="패스 13563" d="M30.149,7.9l4.342-3.229a1.333,1.333,0,0,0,.589-1.106V2.084A1.334,1.334,0,0,0,33.747.75H2.084A1.334,1.334,0,0,0,.75,2.084V3.565a1.332,1.332,0,0,0,.588,1.106l13.546,9.155" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13564" data-name="패스 13564" d="M16.615,18.041V14.633a6.144,6.144,0,0,1,12.288,0v3.456" transform="translate(3.167 1.545)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13565" data-name="패스 13565" d="M31.963,16.614H15.141a2.308,2.308,0,0,0-2.289,2.327v11.84a2.308,2.308,0,0,0,2.289,2.327H31.963a2.308,2.308,0,0,0,2.289-2.327V18.941A2.308,2.308,0,0,0,31.963,16.614Z" transform="translate(2.416 3.167)" fill="none" stroke="#6988ff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_13566" data-name="패스 13566" d="M23.835,23.848a1.769,1.769,0,1,1-1.769-1.769,1.77,1.77,0,0,1,1.769,1.769" transform="translate(3.902 4.258)" fill="#6988ff"/>
+  </g>
+</svg>

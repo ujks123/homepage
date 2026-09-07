@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185" height="47" viewBox="0 0 185 47">
+  <defs>
+    <filter id="사각형_3903" x="0" y="0" width="185" height="47" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.153"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_알림창3" data-name="/알림창3" transform="translate(-578.367 -822)">
+    <g transform="matrix(1, 0, 0, 1, 578.37, 822)" filter="url(#사각형_3903)">
+      <rect id="사각형_3903-2" data-name="사각형 3903" width="170" height="32" rx="5" transform="translate(7.5 7.5)" fill="#4a4a4b"/>
+    </g>
+    <text id="박현빈님이_메일을_보냈습니다." data-name="박현빈님이 메일을 보냈습니다." transform="translate(598.545 849.526)" fill="#fff" font-size="10" font-family="Pretendard-Medium, Pretendard" font-weight="500" letter-spacing="-0.03em"><tspan x="0" y="0">박현빈님이 </tspan><tspan y="0" fill="#bababa">메일을 보냈습니다.</tspan></text>
+    <g id="_닫기" data-name="/닫기" transform="translate(-188.995 753.706)">
+      <path id="선_481" data-name="선 481" d="M5.151,5.526a.374.374,0,0,1-.265-.11L-.265.265a.375.375,0,0,1,0-.53.375.375,0,0,1,.53,0L5.417,4.886a.375.375,0,0,1-.265.64Z" transform="translate(928.498 89.219)" fill="#76777b"/>
+      <path id="선_482" data-name="선 482" d="M0,5.526a.374.374,0,0,1-.265-.11.375.375,0,0,1,0-.53L4.886-.265a.375.375,0,0,1,.53,0,.375.375,0,0,1,0,.53L.265,5.417A.374.374,0,0,1,0,5.526Z" transform="translate(928.498 89.219)" fill="#76777b"/>
+    </g>
+  </g>
+</svg>

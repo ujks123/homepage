@@ -1,0 +1,29 @@
+<svg id="company_iM캐피탈" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="54" viewBox="0 0 100 54">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.093" x2="0.594" y2="0.852" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c7a9"/>
+      <stop offset="0.105" stop-color="#0fc9a3"/>
+      <stop offset="0.31" stop-color="#37d196"/>
+      <stop offset="0.593" stop-color="#79dd80"/>
+      <stop offset="0.94" stop-color="#d1ee63"/>
+      <stop offset="0.973" stop-color="#e2f15e"/>
+      <stop offset="1" stop-color="#e2f15e"/>
+    </linearGradient>
+  </defs>
+  <rect id="투명배경" width="100" height="54" fill="none"/>
+  <g id="iM캐피탈" transform="translate(0 20.933)">
+    <g id="그룹_13742" data-name="그룹 13742" transform="translate(0 -0.001)">
+      <rect id="사각형_4962" data-name="사각형 4962" width="4.866" height="8.845" transform="translate(0 4.866)" fill="#00c7a9"/>
+      <path id="패스_18837" data-name="패스 18837" d="M30.325,0V4.865A8.855,8.855,0,0,1,39.17,13.71h4.866A13.711,13.711,0,0,0,30.325,0Z" transform="translate(-25.459 0.001)" fill="url(#linear-gradient)"/>
+      <path id="패스_18838" data-name="패스 18838" d="M99.155,0V4.866a8.855,8.855,0,0,0-8.845,8.845H85.444A13.711,13.711,0,0,1,99.155,0" transform="translate(-71.733 0)" fill="#00c7a9"/>
+    </g>
+    <g id="그룹_13741" data-name="그룹 13741" transform="translate(32.629 -0.001)">
+      <path id="패스_18832" data-name="패스 18832" d="M347.824,7.627l3.9-.286a17.88,17.88,0,0,0,.2-2.377h-4.092V2.979h6.514V4.167a16.141,16.141,0,0,1-4.408,11.764l-1.956-1.113a12.4,12.4,0,0,0,3.264-5.4l-3.415.256Zm13.615,8.756h-2.347V9.989h-1.339v6.318h-2.347V2.753h2.347V7.928h1.339V2.678h2.347Z" transform="translate(-324.638 -2.249)" fill="#666"/>
+      <path id="패스_18833" data-name="패스 18833" d="M445,13.886h1.941L447.15,6h2.407l-.211,7.883H451v1.986h-9.794V13.886h1.384L442.4,6H444.8Zm-3.49-10.907h9.041V4.965h-9.041Zm13.073,13.4H452.16V2.678h2.422Z" transform="translate(-403.037 -2.249)" fill="#666"/>
+      <path id="패스_18834" data-name="패스 18834" d="M535.9,2.829h8.319v1.76h-5.867v.722h5.867V7.086h-5.867v.8H544.5v1.76H535.9Zm.421,7.507h12.171v3.851h-9.523v.527h9.688v1.67H536.316V12.532h9.523v-.526h-9.523Zm12.171-5.1H549.9V7.176h-1.414V9.809h-2.422V2.678h2.422Z" transform="translate(-482.53 -2.249)" fill="#666"/>
+      <path id="패스_18835" data-name="패스 18835" d="M205.022,0a1.616,1.616,0,1,0,0,3.229,1.635,1.635,0,0,0,1.689-1.615A1.635,1.635,0,0,0,205.022,0" transform="translate(-203.333)" fill="#666"/>
+      <rect id="사각형_4961" data-name="사각형 4961" width="2.784" height="9.445" transform="translate(0.278 4.266)" fill="#666"/>
+      <path id="패스_18836" data-name="패스 18836" d="M248.422,3.536l-4.062,7.653-4.035-7.6-.026-.05h-3.1V16.671h2.784V8.531l3.311,6.222.026.05H245.4l3.319-6.27v8.138H251.5V3.536Z" transform="translate(-231.765 -2.969)" fill="#666"/>
+    </g>
+  </g>
+</svg>

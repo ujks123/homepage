@@ -1,0 +1,285 @@
+<svg id="이미지_커스텀_제품앱아이콘" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="594.011" height="177.58" viewBox="0 0 594.011 177.58">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.482" cy="0.832" r="0.39" gradientTransform="matrix(0.981, 0.192, -0.282, 1.447, 0.244, -0.464)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.659"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.27" y1="0.136" x2="0.801" y2="0.852" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8faff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="-0.033" x2="0.938" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8dbdff"/>
+      <stop offset="1" stop-color="#b973ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="앞면" width="78" height="78" rx="9"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="0.49" cy="0.349" r="0.491" gradientTransform="matrix(0.982, 0.189, -0.207, 1.075, 0.081, -0.119)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="합치기_11" x="273.748" y="19.567" width="46.259" height="45.034" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="-0.031" y1="-0.062" x2="0.992" y2="1.031" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5fc9ff"/>
+      <stop offset="1" stop-color="#8a68fd"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="앞면-2" data-name="앞면" width="78" height="78" rx="9" transform="translate(0 0)"/>
+    </clipPath>
+    <filter id="합치기_10" x="179.98" y="23.839" width="44.938" height="36.488" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-4" x1="0.085" y1="0.041" x2="1.028" y2="1.023" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#77d0ff"/>
+      <stop offset="0.437" stop-color="#b4b7f6"/>
+      <stop offset="1" stop-color="#ff93ed"/>
+    </linearGradient>
+    <filter id="아이콘_드라이브" x="369.601" y="19.562" width="46.083" height="45.518" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-5" x1="-0.018" y1="-0.09" x2="0.978" y2="0.961" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7bebff"/>
+      <stop offset="1" stop-color="#6f6fff"/>
+    </linearGradient>
+    <filter id="합치기_12" x="463.427" y="19.368" width="44.644" height="44.66" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-6" x1="0.027" y1="-0.012" x2="1.029" y2="1.087" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b396ff"/>
+      <stop offset="1" stop-color="#00a1af"/>
+    </linearGradient>
+    <clipPath id="clip-path-5">
+      <rect id="앞면-5" data-name="앞면" width="78" height="78" rx="9" transform="translate(0 0)" opacity="0.997" fill="url(#radial-gradient)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-11" cx="0.482" cy="0.832" r="0.391" gradientTransform="matrix(1, -0.003, 0.004, 1.298, -0.003, -0.246)" xlink:href="#radial-gradient-2"/>
+    <filter id="합치기_13" x="85.659" y="111.946" width="44.756" height="47.521" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-5"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-7" x1="0.015" y1="-0.081" x2="0.978" y2="0.961" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdabf0"/>
+      <stop offset="1" stop-color="#6885fd"/>
+    </linearGradient>
+    <filter id="합치기_14" x="178.444" y="108.985" width="48.01" height="54.023" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-6"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-8" x1="-0.031" y1="-0.062" x2="0.992" y2="1.031" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9b77fc"/>
+      <stop offset="1" stop-color="#9af0bb"/>
+    </linearGradient>
+    <filter id="합치기_20" x="269.193" y="109.323" width="55.34" height="52.764" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-7"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-9" x1="-0.029" y1="-0.069" x2="0.972" y2="0.968" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d9fa90"/>
+      <stop offset="1" stop-color="#6773ff"/>
+    </linearGradient>
+    <filter id="합치기_15" x="368.331" y="112.876" width="45.915" height="45.422" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-8"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-10" y1="0.065" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#67cbff"/>
+      <stop offset="1" stop-color="#8b71ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5e80f9"/>
+      <stop offset="1" stop-color="#8b71ff"/>
+    </linearGradient>
+  </defs>
+  <g id="_점" data-name="/점" transform="translate(-653.265 -471.21)">
+    <circle id="타원_342" data-name="타원 342" cx="4" cy="4" r="4" transform="translate(1129 600)" fill="#cdd6de"/>
+    <circle id="타원_343" data-name="타원 343" cx="4" cy="4" r="4" transform="translate(1142 600)" fill="#cdd6de"/>
+    <circle id="타원_344" data-name="타원 344" cx="4" cy="4" r="4" transform="translate(1155 600)" fill="#cdd6de"/>
+  </g>
+  <g id="_아이콘_블럭2" data-name="/아이콘_블럭2" transform="translate(172.061 -51.158)">
+    <g id="_추가점선" data-name="/추가점선" transform="translate(-97.01 59.87)">
+      <g id="사각형_3972" data-name="사각형 3972" transform="translate(71.986 72.011) rotate(-179.98)" stroke="#b9befd" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.25" stroke-dasharray="1.75 2.5" fill="url(#linear-gradient)">
+        <rect width="78" height="78" rx="8" stroke="none"/>
+        <rect x="0.625" y="0.625" width="76.75" height="76.75" rx="7.375" fill="none"/>
+      </g>
+      <g id="그룹_7368" data-name="그룹 7368" transform="translate(21.556 21.554)">
+        <rect id="사각형_3973" data-name="사각형 3973" width="22.886" height="1.482" rx="0.741" transform="translate(0 10.696)" fill="#93a6ff"/>
+        <rect id="사각형_3974" data-name="사각형 3974" width="22.886" height="1.482" rx="0.741" transform="translate(10.696 22.886) rotate(-90)" fill="#93a6ff"/>
+      </g>
+    </g>
+    <g id="_주소록" data-name="/주소록" transform="translate(77.816 53.735)">
+      <rect id="앞면-9" data-name="앞면" width="78" height="78" rx="9" transform="translate(9.32 0.507)" fill="#fff" opacity="0.6"/>
+      <g id="앞면-10" data-name="앞면" transform="translate(8 0)" stroke="rgba(0,0,0,0.1)" stroke-width="0.5" fill="url(#linear-gradient-2)">
+        <rect width="78" height="78" rx="9" stroke="none"/>
+        <rect x="0.25" y="0.25" width="77.5" height="77.5" rx="8.75" fill="none"/>
+      </g>
+      <g id="마스크_그룹_광택" data-name="마스크 그룹_광택" transform="translate(8 0)" clip-path="url(#clip-path)">
+        <ellipse id="아래" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="translate(89.258 104.575) rotate(180)" opacity="0.546" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="위" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="matrix(0.966, -0.259, 0.259, 0.966, -14.538, 7.552)" opacity="0.997" fill="url(#radial-gradient)"/>
+      </g>
+      <g id="_아이콘_주소록" data-name="/아이콘_주소록" transform="translate(27.965 20.578)">
+        <rect id="뒷가림용" width="34" height="34" transform="translate(1.522 1.847)" fill="#aa9eff" opacity="0.653"/>
+        <g transform="matrix(1, 0, 0, 1, -277.84, -23.15)" filter="url(#합치기_11)">
+          <path id="합치기_11-2" data-name="합치기 11" d="M33.676,36.033H9.446L9.462.007H33.685a3.566,3.566,0,0,1,3.573,3.587V32.458a3.564,3.564,0,0,1-3.566,3.575ZM25.16,28.882a1.429,1.429,0,1,0,1.427-1.432A1.434,1.434,0,0,0,25.16,28.882Zm-4.618,0a1.431,1.431,0,1,0,1.431-1.432A1.438,1.438,0,0,0,20.542,28.882Zm-4.614,0a1.429,1.429,0,1,0,1.427-1.432A1.433,1.433,0,0,0,15.928,28.882ZM21.7,8.163a4.252,4.252,0,0,0-1.18,8.13,7.912,7.912,0,0,0-6.214,7,.665.665,0,0,0,.662.719H29.412a.661.661,0,0,0,.662-.719,7.911,7.911,0,0,0-6.206-7.012,4.245,4.245,0,0,0-1.679-8.149A4.412,4.412,0,0,0,21.7,8.163ZM3.339,36.033A3.341,3.341,0,0,1,0,32.677V3.347A3.353,3.353,0,0,1,3.355,0h4.52L7.859,36.033Z" transform="translate(278.25 24.07)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="_메일" data-name="/메일" transform="translate(-8.611 53.734)">
+      <rect id="횐색단면" width="78" height="78" rx="9" transform="translate(1.321 0.507)" fill="#fff" opacity="0.6"/>
+      <g id="앞면-11" data-name="앞면" transform="translate(0.001 0.001)" stroke="rgba(0,0,0,0.1)" stroke-width="0.5" fill="url(#linear-gradient-3)">
+        <rect width="78" height="78" rx="9" stroke="none"/>
+        <rect x="0.25" y="0.25" width="77.5" height="77.5" rx="8.75" fill="none"/>
+      </g>
+      <g id="마스크_그룹_광택-2" data-name="마스크 그룹_광택" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+        <ellipse id="아래-2" data-name="아래" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="translate(88.641 103.714) rotate(180)" opacity="0.546" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="위-2" data-name="위" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="matrix(0.966, -0.259, 0.259, 0.966, -14.538, 7.552)" opacity="0.997" fill="url(#radial-gradient)"/>
+      </g>
+      <g id="_아이콘_메일" data-name="/아이콘_메일" transform="translate(21.031 25.763)">
+        <rect id="사각형_3976" data-name="사각형 3976" width="35" height="23" transform="translate(0.501 2.785)" fill="#7dacfe" opacity="0.951"/>
+        <g transform="matrix(1, 0, 0, 1, -184.48, -28.34)" filter="url(#합치기_10)">
+          <path id="합치기_10-2" data-name="합치기 10" d="M2.232,27.471A2.2,2.2,0,0,1,.037,25.264V6.295A3.413,3.413,0,0,0,1.51,8.729l13.919,9.551a4.626,4.626,0,0,0,5.269-.008L34.452,8.75a3.441,3.441,0,0,0,1.485-2.842V25.281a2.209,2.209,0,0,1-2.207,2.207ZM16.094,16.691,1,6.34a2.3,2.3,0,0,1-1-1.9V2.3A2.3,2.3,0,0,1,2.3,0L33.64.02a2.3,2.3,0,0,1,2.3,2.3V4.475a2.312,2.312,0,0,1-.99,1.891l.008-.008L20.037,16.691a3.467,3.467,0,0,1-3.943,0Z" transform="translate(184.48 28.34)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="_드라이브" data-name="/드라이브" transform="translate(180.245 -3.265)">
+      <rect id="횐색단면-2" data-name="횐색단면" width="78" height="78" rx="9" transform="translate(1.337 57.744)" fill="#fff" opacity="0.6"/>
+      <g id="앞면-12" data-name="앞면" transform="translate(0.017 57.237)" stroke="rgba(0,0,0,0.1)" stroke-width="0.5" fill="url(#linear-gradient-4)">
+        <rect width="78" height="78" rx="9" stroke="none"/>
+        <rect x="0.25" y="0.25" width="77.5" height="77.5" rx="8.75" fill="none"/>
+      </g>
+      <g id="마스크_그룹_광택-3" data-name="마스크 그룹_광택" transform="translate(0 57.118)" clip-path="url(#clip-path-2)">
+        <ellipse id="아래-3" data-name="아래" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="translate(88.805 101.918) rotate(180)" opacity="0.546" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="위-3" data-name="위" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="matrix(0.966, -0.259, 0.259, 0.966, -14.216, 8.253)" opacity="0.997" fill="url(#radial-gradient)"/>
+      </g>
+      <ellipse id="뒷가림용-2" data-name="뒷가림용" cx="12" cy="9.337" rx="12" ry="9.337" transform="translate(28.798 85.984)" fill="#b0c4f9" opacity="0.373"/>
+      <g transform="matrix(1, 0, 0, 1, -352.31, 54.42)" filter="url(#아이콘_드라이브)">
+        <path id="아이콘_드라이브-2" data-name="아이콘_드라이브" d="M253.121,133.79H223.85a3.888,3.888,0,0,0-3.91,3.9V166.4a3.893,3.893,0,0,0,3.9,3.91h29.271a3.888,3.888,0,0,0,3.91-3.9V137.7a3.893,3.893,0,0,0-3.9-3.91Zm-8.209,31.99a1.39,1.39,0,1,1,1.395-1.386A1.39,1.39,0,0,1,244.912,165.779Zm.839-9.569-12.508-.035a4.781,4.781,0,0,1-.874-9.48,4.645,4.645,0,0,1,8.862-1.845,3.252,3.252,0,0,1,5.049,3.6,3.9,3.9,0,0,1-.521,7.759Zm4.078,9.577a1.39,1.39,0,1,1,1.395-1.386A1.39,1.39,0,0,1,249.829,165.788Z" transform="translate(154.16 -109.73)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="_캘린더" data-name="/캘린더" transform="translate(274.688 -3.381)">
+      <rect id="횐색단면-3" data-name="횐색단면" width="78" height="78" rx="9" transform="translate(1.321 57.744)" fill="#fff" opacity="0.6"/>
+      <g id="앞면-13" data-name="앞면" transform="translate(0 57.237)" stroke="rgba(0,0,0,0.1)" stroke-width="0.5" fill="url(#linear-gradient-5)">
+        <rect width="78" height="78" rx="9" stroke="none"/>
+        <rect x="0.25" y="0.25" width="77.5" height="77.5" rx="8.75" fill="none"/>
+      </g>
+      <g id="마스크_그룹_광택-4" data-name="마스크 그룹_광택" transform="translate(0 57.237)" clip-path="url(#clip-path)">
+        <ellipse id="아래-4" data-name="아래" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="translate(89.565 102.673) rotate(180)" opacity="0.546" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="위-4" data-name="위" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="matrix(0.966, -0.259, 0.259, 0.966, -14.538, 7.552)" opacity="0.997" fill="url(#radial-gradient)"/>
+      </g>
+      <g id="_아이콘_캘린더" data-name="/아이콘_캘린더" transform="translate(21.179 78.407)">
+        <rect id="뒷가림용-3" data-name="뒷가림용" width="34" height="34" transform="translate(0.741 0.866)" fill="#94b7ff" opacity="0.996"/>
+        <g transform="matrix(1, 0, 0, 1, -467.93, -23.87)" filter="url(#합치기_12)">
+          <path id="합치기_12-2" data-name="합치기 12" d="M31.992,35.66H3.639A3.483,3.483,0,0,1,.124,32.189V10.607l35.388.018V32.211a3.475,3.475,0,0,1-3.5,3.449ZM14.037,29.7c2.735,0,4.9-1.59,4.9-4.143a3.032,3.032,0,0,0-2.578-2.953,2.876,2.876,0,0,0,2.223-2.842h.009c.008-2.377-1.888-3.982-4.631-3.982A4.306,4.306,0,0,0,9.34,20.113h2.9A1.733,1.733,0,0,1,13.93,18.25c1.095,0,1.748.559,1.748,1.574s-.715,1.658-1.913,1.658H12.447v2.4h1.318c1.384,0,2.3.582,2.3,1.684,0,.98-.81,1.641-2.029,1.641a1.787,1.787,0,0,1-2.011-1.686h-2.9C9.332,28.08,11.133,29.7,14.037,29.7Zm6.9-10.992h2.338V29.375H26.22V16.145H20.94ZM0,8.777V3.23A3.273,3.273,0,0,1,3.321,0H32.334a3.279,3.279,0,0,1,3.309,3.246V8.8Zm20.515-3.82a1.413,1.413,0,1,0,1.413-1.412A1.412,1.412,0,0,0,20.515,4.957Zm-8.209,0a1.413,1.413,0,1,0,1.413-1.412A1.412,1.412,0,0,0,12.306,4.957Z" transform="translate(467.93 23.87)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="_게시판" data-name="/게시판" transform="translate(-103.024 147.865)">
+      <rect id="횐색단면-4" data-name="횐색단면" width="78" height="78" rx="9" transform="translate(1.321 0.507)" fill="#fff" opacity="0.6"/>
+      <g id="앞면-14" data-name="앞면" transform="translate(0 0)" stroke="rgba(0,0,0,0.1)" stroke-width="0.5" fill="url(#linear-gradient-6)">
+        <rect width="78" height="78" rx="9" stroke="none"/>
+        <rect x="0.25" y="0.25" width="77.5" height="77.5" rx="8.75" fill="none"/>
+      </g>
+      <g id="마스크_그룹_광택-5" data-name="마스크 그룹_광택" transform="translate(0 0)" clip-path="url(#clip-path-5)">
+        <ellipse id="아래-5" data-name="아래" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="translate(87.7 96.113) rotate(180)" opacity="0.546" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="위-5" data-name="위" cx="50.143" cy="26.743" rx="50.143" ry="26.743" transform="matrix(0.966, -0.259, 0.259, 0.966, -15.757, 7.053)" opacity="0.997" fill="url(#radial-gradient-11)" style="mix-blend-mode: screen;isolation: isolate"/>
+      </g>
+      <g id="_아이콘_게시판" data-name="/아이콘_게시판" transform="translate(21.123 19.739)">
+        <ellipse id="뒷가림용-4" data-name="뒷가림용" cx="12" cy="12.837" rx="12" ry="12.837" transform="translate(6.283 8.912)" fill="#87aae6" opacity="0.661"/>
+        <g transform="matrix(1, 0, 0, 1, -90.16, -116.45)" filter="url(#합치기_13)">
+          <path id="합치기_13-2" data-name="합치기 13" d="M3.151,38.521A3.152,3.152,0,0,1,0,35.371V5.737A3.153,3.153,0,0,1,3.151,2.586H8.921V3.4a4.761,4.761,0,0,0,4.76,4.76h8.41a4.752,4.752,0,0,0,4.752-4.747V2.594h5.771L32.6,2.586a3.153,3.153,0,0,1,3.151,3.151V35.371a3.152,3.152,0,0,1-3.151,3.15Zm5.579-10.1a1,1,0,0,0,1,1H25.835a1,1,0,1,0,0-2H9.728A1,1,0,0,0,8.729,28.422Zm0-5.48a1,1,0,0,0,1,1H25.835a1,1,0,1,0,0-1.993H9.728A1,1,0,0,0,8.729,22.941Zm0-5.483a1,1,0,0,0,1,1H25.835a1,1,0,1,0,0-2H9.728A1,1,0,0,0,8.729,17.458Zm5.181-10.8a3.605,3.605,0,0,1-3.6-3.6V1.608A1.608,1.608,0,0,1,11.913,0H23.831a1.608,1.608,0,0,1,1.608,1.608V3.053a3.6,3.6,0,0,1-3.6,3.6Z" transform="translate(90.16 116.45)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="_보안" data-name="/보안" transform="translate(-8.611 147.648)">
+      <rect id="횐색댠면" width="78" height="78" rx="9" transform="translate(1.32 0.507)" fill="#fff" opacity="0.6"/>
+      <g id="앞면-15" data-name="앞면" transform="translate(0 0)" stroke="rgba(0,0,0,0.1)" stroke-width="0.5" fill="url(#linear-gradient-7)">
+        <rect width="78" height="78" rx="9" stroke="none"/>
+        <rect x="0.25" y="0.25" width="77.5" height="77.5" rx="8.75" fill="none"/>
+      </g>
+      <g id="마스크_그룹_광택-6" data-name="마스크 그룹_광택" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <ellipse id="위-6" data-name="위" cx="50.143" cy="28.971" rx="50.143" ry="28.971" transform="matrix(0.966, -0.259, 0.259, 0.966, -14.827, 7.59)" opacity="0.997" fill="url(#radial-gradient)"/>
+        <ellipse id="아래-6" data-name="아래" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="translate(89.68 104.074) rotate(180)" opacity="0.546" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+      </g>
+      <g id="_아이콘_보안" data-name="/아이콘_보안" transform="translate(19.495 16.996)">
+        <ellipse id="뒷가림용-5" data-name="뒷가림용" cx="12" cy="12.337" rx="12" ry="12.337" transform="translate(6.972 10.519)" fill="#c2a9f7" opacity="0.62"/>
+        <g transform="matrix(1, 0, 0, 1, -182.94, -113.49)" filter="url(#합치기_14)">
+          <path id="합치기_14-2" data-name="합치기 14" d="M18.943,44.917C-.513,38.4-.177,22.893.053,11.582c.053-1.18.053-2.311.053-3.44A1.6,1.6,0,0,1,1.765,6.527c6.931,0,12.2-1.94,16.577-6.082a1.745,1.745,0,0,1,2.33,0c4.379,4.149,9.639,6.09,16.569,6.09A1.61,1.61,0,0,1,38.9,8.149c0,1.131,0,2.261.053,3.444h.008c.222,11.359.5,26.818-18.907,33.323l-.557.105ZM10.866,21.859v8.2a2.193,2.193,0,0,0,2.187,2.2h12.87a2.189,2.189,0,0,0,2.2-2.187h.008v-8.2a2.189,2.189,0,0,0-2.191-2.194h-.271V17.551a5.394,5.394,0,0,0-5.386-5.382H18.723a5.394,5.394,0,0,0-5.387,5.382v2.122h-.274A2.193,2.193,0,0,0,10.866,21.859Zm7.795,7.4a.7.7,0,0,1-.672-.886l.574-2.109a1.881,1.881,0,1,1,1.749-.094l.589,2.2a.7.7,0,0,1-.671.886Zm-3.293-9.585V17.551a3.347,3.347,0,0,1,3.347-3.343h1.552a3.349,3.349,0,0,1,3.346,3.343v2.122Z" transform="translate(182.94 113.49)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="_모바일" data-name="/모바일" transform="translate(85.803 147.863)">
+      <rect id="횐색단면-5" data-name="횐색단면" width="78" height="78" rx="9" transform="translate(1.321 0.507)" fill="#fff" opacity="0.6"/>
+      <g id="앞면-16" data-name="앞면" transform="translate(0.001 0.001)" stroke="rgba(0,0,0,0.1)" stroke-width="0.5" fill="url(#linear-gradient-8)">
+        <rect width="78" height="78" rx="9" stroke="none"/>
+        <rect x="0.25" y="0.25" width="77.5" height="77.5" rx="8.75" fill="none"/>
+      </g>
+      <g id="마스크_그룹_광택-7" data-name="마스크 그룹_광택" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+        <ellipse id="아래-7" data-name="아래" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="translate(88.641 103.714) rotate(180)" opacity="0.546" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="위-7" data-name="위" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="matrix(0.966, -0.259, 0.259, 0.966, -14.538, 7.552)" opacity="0.997" fill="url(#radial-gradient)"/>
+      </g>
+      <g id="_아이콘_모바일" data-name="/아이콘_모바일" transform="translate(15.83 17.117)">
+        <g transform="matrix(1, 0, 0, 1, -273.69, -113.82)" filter="url(#합치기_20)">
+          <path id="합치기_20-2" data-name="합치기 20" d="M13176.129,12322.669a4.684,4.684,0,0,1-4.684-4.687v-2.456h16.993a3.851,3.851,0,0,0,3.849-3.846v-4.121h8.822v10.423a4.687,4.687,0,0,1-4.687,4.688Zm-10.316-8.4a2.525,2.525,0,0,1-2.526-2.522v-10.257a2.526,2.526,0,0,1,2.526-2.526h14.813v4.744a3.854,3.854,0,0,0,3.849,3.849h6.487v4.19a2.521,2.521,0,0,1-2.522,2.522Zm1.773-4.187a.671.671,0,0,0,.67.673h16.363a.671.671,0,0,0,0-1.343h-16.363A.67.67,0,0,0,13167.586,12310.085Zm0-3.309a.67.67,0,0,0,.67.67h8.583a.671.671,0,0,0,0-1.343h-8.583A.671.671,0,0,0,13167.586,12306.776Zm0-3.392a.671.671,0,0,0,.67.673h5.158a.671.671,0,0,0,0-1.343h-5.158A.67.67,0,0,0,13167.586,12303.385Zm16.884,2.852a2.527,2.527,0,0,1-2.522-2.526v-10.257a2.527,2.527,0,0,1,2.522-2.526h22.63a2.53,2.53,0,0,1,2.526,2.526v10.257a2.53,2.53,0,0,1-2.526,2.526Zm15.25-7.722a1.711,1.711,0,1,0,1.708-1.71A1.71,1.71,0,0,0,13199.72,12298.515Zm-5.354,0a1.712,1.712,0,1,0,1.71-1.71A1.712,1.712,0,0,0,13194.366,12298.515Zm-5.351,0a1.71,1.71,0,1,0,1.71-1.71A1.71,1.71,0,0,0,13189.016,12298.515Zm-17.57-.941v-13.983a4.682,4.682,0,0,1,4.684-4.685h20.293a4.682,4.682,0,0,1,4.684,4.685v6.018h-16.636a3.85,3.85,0,0,0-3.845,3.846v4.12Zm10.062-14.183a.785.785,0,0,0,.785.786h7.967a.786.786,0,1,0,0-1.571h-7.967A.785.785,0,0,0,13181.507,12283.391Z" transform="translate(-12889.59 -12165.08)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="_아카이브" data-name="/아카이브" transform="translate(180.216 90.53)">
+      <rect id="횐색단면-6" data-name="횐색단면" width="78" height="78" rx="9" transform="translate(1.332 57.744)" fill="#fff" opacity="0.6"/>
+      <g id="앞면-17" data-name="앞면" transform="translate(0.011 57.237)" stroke="rgba(0,0,0,0.1)" stroke-miterlimit="10" stroke-width="0.5" fill="url(#linear-gradient-9)">
+        <rect width="78" height="78" rx="9" stroke="none"/>
+        <rect x="0.25" y="0.25" width="77.5" height="77.5" rx="8.75" fill="none"/>
+      </g>
+      <g id="마스크_그룹_광택-8" data-name="마스크 그룹_광택" transform="translate(0 57.216)" clip-path="url(#clip-path-2)">
+        <ellipse id="위-8" data-name="위" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="matrix(0.966, -0.259, 0.259, 0.966, -14.538, 7.552)" opacity="0.997" fill="url(#radial-gradient)"/>
+        <ellipse id="아래-8" data-name="아래" cx="50.143" cy="27.857" rx="50.143" ry="27.857" transform="translate(89.334 100.373) rotate(180)" opacity="0.546" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+      </g>
+      <g id="_아이콘_아카이브" data-name="/아이콘_아카이브" transform="translate(20.555 78.005)">
+        <rect id="사각형_3975" data-name="사각형 3975" width="34" height="33" transform="translate(1.599 1.87)" fill="#adc4be" opacity="0.664"/>
+        <g transform="matrix(1, 0, 0, 1, -372.83, -117.38)" filter="url(#합치기_15)">
+          <path id="합치기_15-2" data-name="합치기 15" d="M34.451,36.421l-32.087-.3A2.4,2.4,0,0,1,0,33.71l.053-6a2.4,2.4,0,0,1,2.41-2.364l32.087.3a2.4,2.4,0,0,1,2.365,2.41l-.053,5.992a2.4,2.4,0,0,1-2.4,2.369Zm-7.23-5.3a1,1,0,0,0,.991,1.007l3.606.033a1,1,0,1,0,.021-2l-3.611-.037A1,1,0,0,0,27.221,31.124Zm7.23-7.378-32.087-.3A2.4,2.4,0,0,1,0,21.035l.053-6a2.4,2.4,0,0,1,2.41-2.365l32.087.3a2.4,2.4,0,0,1,2.365,2.411l-.053,5.992a2.4,2.4,0,0,1-2.4,2.369Zm-7.23-5.3a1,1,0,0,0,.991,1l3.606.037a1,1,0,1,0,.021-1.994l-3.611-.037A1,1,0,0,0,27.221,18.448Zm7.23-7.382-32.087-.3A2.394,2.394,0,0,1,0,8.359l.053-6A2.4,2.4,0,0,1,2.463,0L34.55.3A2.4,2.4,0,0,1,36.915,2.71L36.861,8.7a2.393,2.393,0,0,1-2.387,2.364Zm-7.23-5.285a1,1,0,0,0,.991,1l3.611.036a1,1,0,0,0,.016-1.994L28.229,4.79A1,1,0,0,0,27.221,5.781Z" transform="translate(372.83 117.38)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path id="패스_13262" data-name="패스 13262" d="M-20.6-41.21h3.9c5.59,0,8.45,2.73,8.45,10.01V35.61c0,12.87,6.89,17.81,23.66,17.81v-7.8C2.015,45.62.585,41.85.585,31.06V-29.77c0-6.37-1.04-14.04-9.49-15.34v-.52c8.45-1.3,9.49-8.97,9.49-15.6V-101.8c0-10.79,1.43-14.56,14.82-14.56v-7.8c-16.77,0-23.66,4.94-23.66,17.29v47.2c0,7.28-2.86,10.01-8.45,10.01h-3.9Z" transform="translate(20.605 124.16)" fill="#d5dfe8"/>
+  <path id="패스_13285" data-name="패스 13285" d="M15.406-41.21h-3.9c-5.59,0-8.45,2.73-8.45,10.01V35.61c0,12.87-6.89,17.81-23.66,17.81v-7.8c13.39,0,14.82-3.77,14.82-14.56V-29.77c0-6.37,1.04-14.04,9.49-15.34v-.52c-8.45-1.3-9.49-8.97-9.49-15.6V-101.8c0-10.79-1.43-14.56-14.82-14.56v-7.8c16.77,0,23.66,4.94,23.66,17.29v47.2c0,7.28,2.86,10.01,8.45,10.01h3.9Z" transform="translate(578.605 124.16)" fill="#d5dfe8"/>
+  <g id="_마우스커서" data-name="/마우스커서" transform="translate(118.006 58.738)">
+    <g id="그룹_6039" data-name="그룹 6039" transform="translate(0 1.4)">
+      <path id="패스_8157" data-name="패스 8157" d="M30.7,6.084a.857.857,0,0,0-.264.2.844.844,0,0,0-.193.256,3.4,3.4,0,0,0-.624,1.306,3.223,3.223,0,0,0-2.44-.519,3.189,3.189,0,0,0-2.61,2.622,3.3,3.3,0,0,0-2.3-.589,3.184,3.184,0,0,0-2.792,2.516l-.762-.761a13.95,13.95,0,0,0-3.163-2.894,3.4,3.4,0,0,0-4.809,3.688c.291,1.458,1.673,2.5,2.673,3.5l3.373,3.373c.009.009.02.011.028.019l6.028,6.028c-1.5-.216-2.965-.063-3.934,1.385a3.392,3.392,0,0,0,.879,4.569,5.392,5.392,0,0,0,2.187.825l6.786,1.537a28.062,28.062,0,0,0,5.38.987c6.481.175,12.126-6.008,11.075-12.435-.462-2.827-1.992-5.061-3.718-7.24L36.516,8.156c-.47-.593-.91-1.245-1.426-1.8A3.277,3.277,0,0,0,30.7,6.084m4.654,3.329,4.082,5.151,1.846,2.328.02.024c.05.067.1.134.147.2.159.228.314.457.46.694a12.84,12.84,0,0,1,1.035,2.027,8.959,8.959,0,0,1,.378,5.939,9.985,9.985,0,0,1-6.285,6.252,10.12,10.12,0,0,1-5.411.015l-6.168-1.4-3.046-.689a3.012,3.012,0,0,1-2-.928,1.623,1.623,0,0,1,.271-2.266,2.087,2.087,0,0,1,1.809-.287c.936.209,1.872.424,2.808.635a.857.857,0,0,0,.817-1.424L18,17.569c-.009-.008-.02-.011-.029-.018-1.662-1.662-3.349-3.3-4.987-4.988a1.691,1.691,0,1,1,2.3-2.474c.815.739,1.566,1.566,2.345,2.345l2.239,2.238,0,.007,3.149,3.149.446.446a.851.851,0,1,0,1.2-1.2l-3.127-3.127-.007-.009a1.691,1.691,0,0,1,2.021-2.672,10.584,10.584,0,0,1,1.9,1.814l.007.007,0,0,2.246,2.246.318.318a.85.85,0,0,0,1.2-1.2L26.992,12.2l-.318-.318-.007,0,0-.005A1.7,1.7,0,0,1,28.484,9.1a5.6,5.6,0,0,1,1.7,1.5c.015.017.019.037.035.053l2.046,2.046.289.289a.851.851,0,0,0,1.2-1.2L31.711,9.735,31.676,9.7a1.6,1.6,0,0,1-.035-2.215c1.593-1.445,2.881.875,3.715,1.927" transform="translate(-10.681 -5.372)" fill="url(#linear-gradient-10)"/>
+      <path id="패스_8158" data-name="패스 8158" d="M36,10.026l4.082,5.151L41.933,17.5l.02.024c.05.067.1.134.147.2.159.228.314.457.46.694a12.838,12.838,0,0,1,1.035,2.027,8.959,8.959,0,0,1,.378,5.939,9.985,9.985,0,0,1-6.285,6.252,10.12,10.12,0,0,1-5.411.015l-6.168-1.4-3.046-.689a3.012,3.012,0,0,1-2-.928,1.623,1.623,0,0,1,.271-2.266,2.087,2.087,0,0,1,1.809-.287c.936.209,1.872.424,2.808.635a.857.857,0,0,0,.817-1.424l-8.118-8.119c-.009-.008-.02-.011-.029-.018-1.662-1.662-3.349-3.3-4.987-4.988a1.691,1.691,0,1,1,2.3-2.474c.815.739,1.566,1.566,2.345,2.345l2.239,2.238,0,.007,3.149,3.149.446.446a.851.851,0,0,0,1.2-1.2L22.2,14.556l-.007-.009a1.691,1.691,0,0,1,2.021-2.672,10.584,10.584,0,0,1,1.9,1.814l.007.007,0,0,2.246,2.246.318.318a.85.85,0,0,0,1.2-1.2l-2.246-2.247-.318-.318-.007,0,0-.005a1.7,1.7,0,0,1,1.82-2.776,5.6,5.6,0,0,1,1.7,1.5c.015.017.019.037.035.053l2.046,2.046.289.289a.851.851,0,0,0,1.2-1.2l-2.046-2.046-.035-.035A1.6,1.6,0,0,1,32.289,8.1c1.593-1.445,2.881.875,3.715,1.927" transform="translate(-11.33 -5.986)" fill="url(#linear-gradient-10)"/>
+    </g>
+    <g id="그룹_6038" data-name="그룹 6038" transform="translate(0.933)">
+      <path id="패스_8157-2" data-name="패스 8157" d="M30.7,6.084a.857.857,0,0,0-.264.2.844.844,0,0,0-.193.256,3.4,3.4,0,0,0-.624,1.306,3.223,3.223,0,0,0-2.44-.519,3.189,3.189,0,0,0-2.61,2.622,3.3,3.3,0,0,0-2.3-.589,3.184,3.184,0,0,0-2.792,2.516l-.762-.761a13.95,13.95,0,0,0-3.163-2.894,3.4,3.4,0,0,0-4.809,3.688c.291,1.458,1.673,2.5,2.673,3.5l3.373,3.373c.009.009.02.011.028.019l6.028,6.028c-1.5-.216-2.965-.063-3.934,1.385a3.392,3.392,0,0,0,.879,4.569,5.392,5.392,0,0,0,2.187.825l6.786,1.537a28.062,28.062,0,0,0,5.38.987c6.481.175,12.126-6.008,11.075-12.435-.462-2.827-1.992-5.061-3.718-7.24L36.516,8.156c-.47-.593-.91-1.245-1.426-1.8A3.277,3.277,0,0,0,30.7,6.084m4.654,3.329,4.082,5.151,1.846,2.328.02.024c.05.067.1.134.147.2.159.228.314.457.46.694a12.84,12.84,0,0,1,1.035,2.027,8.959,8.959,0,0,1,.378,5.939,9.985,9.985,0,0,1-6.285,6.252,10.12,10.12,0,0,1-5.411.015l-6.168-1.4-3.046-.689a3.012,3.012,0,0,1-2-.928,1.623,1.623,0,0,1,.271-2.266,2.087,2.087,0,0,1,1.809-.287c.936.209,1.872.424,2.808.635a.857.857,0,0,0,.817-1.424L18,17.569c-.009-.008-.02-.011-.029-.018-1.662-1.662-3.349-3.3-4.987-4.988a1.691,1.691,0,1,1,2.3-2.474c.815.739,1.566,1.566,2.345,2.345l2.239,2.238,0,.007,3.149,3.149.446.446a.851.851,0,1,0,1.2-1.2l-3.127-3.127-.007-.009a1.691,1.691,0,0,1,2.021-2.672,10.584,10.584,0,0,1,1.9,1.814l.007.007,0,0,2.246,2.246.318.318a.85.85,0,0,0,1.2-1.2L26.992,12.2l-.318-.318-.007,0,0-.005A1.7,1.7,0,0,1,28.484,9.1a5.6,5.6,0,0,1,1.7,1.5c.015.017.019.037.035.053l2.046,2.046.289.289a.851.851,0,0,0,1.2-1.2L31.711,9.735,31.676,9.7a1.6,1.6,0,0,1-.035-2.215c1.593-1.445,2.881.875,3.715,1.927" transform="translate(-10.681 -5.372)" fill="url(#linear-gradient-12)"/>
+      <path id="패스_8158-2" data-name="패스 8158" d="M36,10.026l4.082,5.151L41.933,17.5l.02.024c.05.067.1.134.147.2.159.228.314.457.46.694a12.838,12.838,0,0,1,1.035,2.027,8.959,8.959,0,0,1,.378,5.939,9.985,9.985,0,0,1-6.285,6.252,10.12,10.12,0,0,1-5.411.015l-6.168-1.4-3.046-.689a3.012,3.012,0,0,1-2-.928,1.623,1.623,0,0,1,.271-2.266,2.087,2.087,0,0,1,1.809-.287c.936.209,1.872.424,2.808.635a.857.857,0,0,0,.817-1.424l-8.118-8.119c-.009-.008-.02-.011-.029-.018-1.662-1.662-3.349-3.3-4.987-4.988a1.691,1.691,0,1,1,2.3-2.474c.815.739,1.566,1.566,2.345,2.345l2.239,2.238,0,.007,3.149,3.149.446.446a.851.851,0,0,0,1.2-1.2L22.2,14.556l-.007-.009a1.691,1.691,0,0,1,2.021-2.672,10.584,10.584,0,0,1,1.9,1.814l.007.007,0,0,2.246,2.246.318.318a.85.85,0,0,0,1.2-1.2l-2.246-2.247-.318-.318-.007,0,0-.005a1.7,1.7,0,0,1,1.82-2.776,5.6,5.6,0,0,1,1.7,1.5c.015.017.019.037.035.053l2.046,2.046.289.289a.851.851,0,0,0,1.2-1.2l-2.046-2.046-.035-.035A1.6,1.6,0,0,1,32.289,8.1c1.593-1.445,2.881.875,3.715,1.927" transform="translate(-11.33 -5.986)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

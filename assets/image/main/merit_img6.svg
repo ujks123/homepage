@@ -1,0 +1,91 @@
+<svg id="이미지_커스텀_브라우저" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="322.605" height="197.313" viewBox="0 0 322.605 197.313">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e0fdce"/>
+      <stop offset="1" stop-color="#afcbfd"/>
+    </linearGradient>
+  </defs>
+  <g id="_이미지_브라우저" data-name="/이미지_브라우저">
+    <g id="테두리" transform="translate(0 0)" fill="#fff" stroke="#d0d7de" stroke-width="1">
+      <rect width="236.471" height="160.589" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="235.471" height="159.589" rx="4.5" fill="none"/>
+    </g>
+    <g id="_상단바" data-name="/상단바" transform="translate(0.882 0.882)">
+      <path id="사각형_4461" data-name="사각형 4461" d="M4,0H230.706a4,4,0,0,1,4,4v9.235a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(0 0)" fill="#7a8286"/>
+      <path id="패스_11380" data-name="패스 11380" d="M7.736,6.106A1.985,1.985,0,1,1,5.787,8.091,1.968,1.968,0,0,1,7.736,6.106" transform="translate(-0.786 -1.368)" fill="#ff7c72"/>
+      <path id="패스_11381" data-name="패스 11381" d="M14.431,6.106a1.985,1.985,0,1,1-1.95,1.985,1.967,1.967,0,0,1,1.95-1.985" transform="translate(-1.614 -1.368)" fill="#ffb339"/>
+      <path id="패스_11382" data-name="패스 11382" d="M21.125,6.106a1.985,1.985,0,1,1-1.949,1.985,1.968,1.968,0,0,1,1.949-1.985" transform="translate(-2.443 -1.368)" fill="#71d92e"/>
+    </g>
+    <rect id="사각형_4509" data-name="사각형 4509" width="17" height="136" rx="2.5" transform="translate(6.703 18)" fill="#9bc3ff"/>
+    <rect id="사각형_4510" data-name="사각형 4510" width="50" height="136" rx="3" transform="translate(27.703 18)" fill="#e8ecf4"/>
+    <rect id="사각형_4511" data-name="사각형 4511" width="148" height="136" rx="3" transform="translate(81.703 18)" fill="#e9ecf4"/>
+  </g>
+  <g id="_이미지_브라우저-2" data-name="/이미지_브라우저" transform="translate(48.731 28.442)">
+    <g id="테두리-2" data-name="테두리" transform="translate(0 0)" fill="#fff" stroke="#d0d7de" stroke-width="1">
+      <rect width="236.471" height="160.589" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="235.471" height="159.589" rx="4.5" fill="none"/>
+    </g>
+    <g id="_상단바-2" data-name="/상단바" transform="translate(0.882 0.883)">
+      <path id="사각형_4461-2" data-name="사각형 4461" d="M4,0H230.706a4,4,0,0,1,4,4v9.235a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(0 0)" fill="#7a8286"/>
+      <path id="패스_11380-2" data-name="패스 11380" d="M7.92,6.106A2.132,2.132,0,1,1,5.787,8.238,2.133,2.133,0,0,1,7.92,6.106" transform="translate(0.19 -1.368)" fill="#ff7c72"/>
+      <path id="패스_11381-2" data-name="패스 11381" d="M14.615,6.106a2.132,2.132,0,1,1-2.134,2.132,2.132,2.132,0,0,1,2.134-2.132" transform="translate(-0.086 -1.368)" fill="#ffb339"/>
+      <path id="패스_11382-2" data-name="패스 11382" d="M21.309,6.106a2.132,2.132,0,1,1-2.133,2.132,2.133,2.133,0,0,1,2.133-2.132" transform="translate(-0.363 -1.368)" fill="#70d92e"/>
+    </g>
+    <rect id="사각형_4509-2" data-name="사각형 4509" width="223" height="15" rx="2.5" transform="translate(6.972 18.559)" fill="#869fff"/>
+    <rect id="사각형_4510-2" data-name="사각형 4510" width="50" height="116" rx="3" transform="translate(6.972 37.559)" fill="#e8ecf4"/>
+    <rect id="사각형_4511-2" data-name="사각형 4511" width="169" height="116" rx="3" transform="translate(60.972 37.559)" fill="#e9ecf4"/>
+    <g id="사각형_4578" data-name="사각형 4578" transform="translate(74.972 47.559)" fill="none" stroke="#c8cdd6" stroke-linecap="round" stroke-width="1" stroke-dasharray="1.25 2">
+      <rect width="43" height="44" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="42" height="43" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_4579" data-name="사각형 4579" transform="translate(122.972 47.559)" fill="none" stroke="#c8cdd6" stroke-linecap="round" stroke-width="1" stroke-dasharray="1.25 2">
+      <rect width="44" height="44" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="43" height="43" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_4580" data-name="사각형 4580" transform="translate(171.972 47.559)" fill="none" stroke="#c8cdd6" stroke-linecap="round" stroke-width="1" stroke-dasharray="1.25 2">
+      <rect width="43" height="44" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="42" height="43" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_4581" data-name="사각형 4581" transform="translate(74.972 96.559)" fill="none" stroke="#c8cdd6" stroke-linecap="round" stroke-width="1" stroke-dasharray="1.25 2">
+      <rect width="43" height="43" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="42" height="42" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_4582" data-name="사각형 4582" transform="translate(122.972 96.559)" fill="none" stroke="#c8cdd6" stroke-linecap="round" stroke-width="1" stroke-dasharray="1.25 2">
+      <rect width="44" height="43" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="43" height="42" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_4583" data-name="사각형 4583" transform="translate(171.972 96.559)" fill="none" stroke="#c8cdd6" stroke-linecap="round" stroke-width="1" stroke-dasharray="1.25 2">
+      <rect width="43" height="43" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="42" height="42" rx="4.5" fill="none"/>
+    </g>
+  </g>
+  <g id="_테마" data-name="/테마" transform="translate(-279.539 -532.658)">
+    <g id="_이미지_브라우저-3" data-name="/이미지_브라우저" transform="translate(436.524 625.351)">
+      <g id="테두리-3" data-name="테두리" transform="translate(0 0)" fill="#fff" stroke="#d0d7de" stroke-width="1">
+        <rect width="52.68" height="104.62" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="51.68" height="103.62" rx="4.5" fill="none"/>
+      </g>
+      <rect id="사각형_4509-3" data-name="사각형 4509" width="10.4" height="94.117" rx="2" transform="translate(5.614 5.481)" fill="#869fff"/>
+      <rect id="사각형_4510-3" data-name="사각형 4510" width="28.365" height="94.117" rx="2" transform="translate(18.851 5.481)" fill="#d9dce2"/>
+      <rect id="사각형_4585" data-name="사각형 4585" width="23" height="6" rx="1" transform="translate(21.719 9.309)" fill="#8b8f91"/>
+    </g>
+    <g id="_이미지_브라우저-4" data-name="/이미지_브라우저" transform="translate(492.994 625.351)">
+      <g id="테두리-4" data-name="테두리" transform="translate(0 0)" fill="#fff" stroke="#d0d7de" stroke-width="1">
+        <rect width="52.68" height="104.62" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="51.68" height="103.62" rx="4.5" fill="none"/>
+      </g>
+      <rect id="사각형_4509-4" data-name="사각형 4509" width="10.4" height="94.117" rx="2" transform="translate(5.614 5.481)" fill="#869fff"/>
+      <rect id="사각형_4510-4" data-name="사각형 4510" width="28.365" height="94.117" rx="2" transform="translate(18.851 5.481)" fill="#545a5c"/>
+      <rect id="사각형_4586" data-name="사각형 4586" width="23" height="6" rx="1" transform="translate(21.248 9.309)" fill="#8b8f91"/>
+    </g>
+    <g id="_이미지_브라우저-5" data-name="/이미지_브라우저" transform="translate(549.464 625.351)">
+      <g id="테두리-5" data-name="테두리" transform="translate(0 0)" fill="#fff" stroke="#d0d7de" stroke-width="1">
+        <rect width="52.68" height="104.62" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="51.68" height="103.62" rx="4.5" fill="none"/>
+      </g>
+      <rect id="사각형_4509-5" data-name="사각형 4509" width="10.4" height="94.117" rx="2" transform="translate(5.614 5.481)" fill="url(#linear-gradient)"/>
+      <rect id="사각형_4510-5" data-name="사각형 4510" width="28.365" height="94.117" rx="2" transform="translate(18.851 5.481)" fill="#fafafa"/>
+      <rect id="사각형_4587" data-name="사각형 4587" width="23" height="6" rx="1" transform="translate(21.778 9.309)" fill="#8b8f91"/>
+    </g>
+  </g>
+</svg>

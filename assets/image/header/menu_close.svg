@@ -1,0 +1,7 @@
+<svg id="btn_close" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <rect id="BoundaryBG_ClearT" width="30" height="30" fill="none" opacity="0.132"/>
+  <g id="그룹_6008" data-name="그룹 6008" transform="translate(-950.007 -20.812)">
+    <path id="패스_7869" data-name="패스 7869" d="M961.194,32l14.074,14.074" transform="translate(-3.225 -3.225)" fill="none" stroke="#212222" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="패스_7870" data-name="패스 7870" d="M975.269,32,961.194,46.074" transform="translate(-3.225 -3.225)" fill="none" stroke="#212222" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>
