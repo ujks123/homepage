@@ -52,8 +52,12 @@ pointTabs.forEach((tab, index) => {
 });
 
 function setPointActiveTab(index) {
-  pointTabs.forEach(tab => tab.classList.remove('on'));
+  pointTabs.forEach(tab => {
+    tab.classList.remove('on');
+    tab.setAttribute('aria-selected', 'false');
+  });
   pointTabs[index].classList.add('on');
+  pointTabs[index].setAttribute('aria-selected', 'true');
 }
 
 // Main_preview
@@ -102,8 +106,12 @@ document.querySelectorAll('.preview_wrap img').forEach(img => {
 });
 
 function setPreviewActiveTab(index) {
-  previewTabs.forEach(tab => tab.classList.remove('on'));
+  previewTabs.forEach(tab => {
+    tab.classList.remove('on');
+    tab.setAttribute('aria-selected', 'false');
+  });
   previewTabs[index].classList.add('on');
+  previewTabs[index].setAttribute('aria-selected', 'true');
 }
 
 // Main_merit
@@ -113,6 +121,10 @@ const meritSwiper = new Swiper(".merit_wrap .swiper", {
   navigation: {
     prevEl: '.merit_prev',
     nextEl: '.merit_next'
+  },
+  a11y: {
+    prevSlideMessage: '이전 특장점',
+    nextSlideMessage: '다음 특장점'
   },
   touchRatio: 0.7,
   speed: 650,
@@ -162,8 +174,12 @@ featureTabs.forEach((tab, index) => {
 });
 
 function setFeatureActiveTab(index) {
-  featureTabs.forEach(tab => tab.classList.remove('on'));
+  featureTabs.forEach(tab => {
+    tab.classList.remove('on');
+    tab.setAttribute('aria-selected', 'false');
+  });
   featureTabs[index].classList.add('on');
+  featureTabs[index].setAttribute('aria-selected', 'true');
 }
 
 // Main_report
@@ -173,6 +189,10 @@ const reportSwiper = new Swiper(".report_wrap .swiper", {
   navigation: {
     prevEl: '.report_prev',
     nextEl: '.report_next'
+  },
+  a11y: {
+    prevSlideMessage: '이전 도입사례',
+    nextSlideMessage: '다음 도입사례'
   },
   touchRatio: 0.7,
   speed: 650,
@@ -203,7 +223,9 @@ enableAutoplayOnView(reportSwiper);
 document.querySelectorAll('.client .marquee_track').forEach((track) => {
   const items = [...track.children];
   items.forEach(item => {
-    track.appendChild(item.cloneNode(true));
+    const clone = item.cloneNode(true);
+    clone.setAttribute('aria-hidden', 'true');
+    track.appendChild(clone);
   });
 });
 
