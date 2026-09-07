@@ -32,13 +32,13 @@
   .container > main .preview > .inner {padding: 98px 20px 90px;}
   .container > main .preview .preview_wrap .swiper-slide > li {height: 412px;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li > div:nth-of-type(1) {padding: 40px 0 60px 40px;}
-  .container > main .preview .preview_wrap .swiper-slide.convenience > li > div > h1 {font-size: 22px; letter-spacing: -0.66px; line-height: 31px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li > div > h3 {font-size: 22px; letter-spacing: -0.66px; line-height: 31px;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(1) > div > img {right: -60%;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(2) > div > img {right: -40%;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(3) > div > img {right: -30%;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(4) > div > img {right: -65%;}
   .container > main .preview .preview_wrap .swiper-slide.security > li > div:nth-of-type(1) {padding: 40px;}
-  .container > main .preview .preview_wrap .swiper-slide.security > li > div > h1 {font-size: 22px; letter-spacing: -0.66px; line-height: 31px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div > h3 {font-size: 22px; letter-spacing: -0.66px; line-height: 31px;}
   .container > main .preview .preview_wrap .swiper-slide.security > li > div > p {font-size: 20px; letter-spacing: -0.6px; line-height: 30px;}
   .container > main .preview .preview_wrap .swiper-slide.security > li > div > span {font-size: 17px; letter-spacing: -0.51px; line-height: 32px; padding-top: 20px;}
   .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(1) > div:nth-of-type(2) {max-width: 420px;}
@@ -74,7 +74,7 @@
 
   .container > main .visual > .outer {padding: 36px 20px 70px;}
   .container > main .visual > .outer::before {bottom: -1%;}
-  .container > main .visual > .outer > .inner > h2 {font-size: 34px; letter-spacing: -1.36px; line-height: 38px;}
+  .container > main .visual > .outer > .inner > .eyebrow {font-size: 34px; letter-spacing: -1.36px; line-height: 38px; padding-top: 0;}
   .container > main .visual > .outer > .inner > h1 {font-size: 30px; letter-spacing: -0.84px; line-height: 29px;}
   .container > main .visual > .outer > .inner > p {font-size: 14px; letter-spacing: -0.56px; line-height: 20px; padding-top: 10px;}
   .container > main .visual > .outer > .inner > div {padding: 30px 0 46px;}
@@ -84,7 +84,7 @@
   .container > main .point {padding-bottom: 30px;}
   .container > main .point > .inner {padding: 46px 20px 32px;}
   .container > main .point > .inner > p {font-size: 18px;}
-  .container > main .point > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
+  .container > main .point > .inner > h2 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
   .container > main .point > .inner > div {padding-top: 30px;}
   .container > main .point > .inner > div > div > a {padding: 0 18px; height: 30px; font-size: 16px; letter-spacing: -0.64px; line-height: 48px;}
   .container > main .point > .inner > div > div > a + a {margin-left: 14px;}
@@ -92,13 +92,13 @@
   .container > main .point .point_wrap .swiper-slide {padding: 18px 26px; border-radius: 10px;}
   .container > main .point .point_wrap .swiper-slide > div:nth-of-type(1) {padding: 12px 0 0 0;}
   .container > main .point .point_wrap .swiper-slide > div > span {font-size: 16px; letter-spacing: -0.64px; line-height: 30px; padding-bottom: 16px;}
-  .container > main .point .point_wrap .swiper-slide > div > h1 {font-size: 22px; letter-spacing: -0.88px; line-height: 30px; padding-bottom: 14px;}
+  .container > main .point .point_wrap .swiper-slide > div > h3 {font-size: 22px; letter-spacing: -0.88px; line-height: 30px; padding-bottom: 14px;}
   .container > main .point .point_wrap .swiper-slide > div > p {font-size: 15px; letter-spacing: -0.6px; line-height: 23px; padding-bottom: 12px;}
   .container > main .point .point_wrap .swiper-slide > div > img {width: auto; height: 242px;}
 
   .container > main .preview > .inner {padding: 46px 20px 48px;}
   .container > main .preview > .inner > p {font-size: 18px; letter-spacing: -0.72px; line-height: 30px;}
-  .container > main .preview > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
+  .container > main .preview > .inner > h2 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
   .container > main .preview .preview_tabs {padding-top: 30px;}
   .container > main .preview .preview_tabs > a {font-size: 16px; letter-spacing: -0.64px; line-height: 48px; height: 30px; padding: 0 18px;}
   .container > main .preview .preview_tabs > a + a {margin-left: 10px;}
@@ -108,7 +108,7 @@
   .container > main .preview .preview_wrap .swiper-slide.convenience {grid-template-columns: 1fr;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li {grid-column: 1 !important;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li > div:nth-of-type(1) {padding: 20px 0 28px 20px;}
-  .container > main .preview .preview_wrap .swiper-slide.convenience > li > div > h1 {font-size: 16px; letter-spacing: -0.48px; line-height: 22px;}
+  .container > main .preview .preview_wrap .swiper-slide.convenience > li > div > h3 {font-size: 16px; letter-spacing: -0.48px; line-height: 22px;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li > div:nth-of-type(2) {padding-top: 26px;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(1) > div > img {right: -10%; width: 310px;}
   .container > main .preview .preview_wrap .swiper-slide.convenience > li:nth-of-type(2) > div > img {right: -9%; width: 295px;}
@@ -118,7 +118,7 @@
   .container > main .preview .preview_wrap .swiper-slide.security {grid-template-columns: 1fr;}
   .container > main .preview .preview_wrap .swiper-slide.security > li {grid-column: 1 !important;}
   .container > main .preview .preview_wrap .swiper-slide.security > li > div:nth-of-type(1) {padding: 32px 28px 38px;}
-  .container > main .preview .preview_wrap .swiper-slide.security > li > div > h1 {font-size: 20px; letter-spacing: -0.8px; line-height: 30px;}
+  .container > main .preview .preview_wrap .swiper-slide.security > li > div > h3 {font-size: 20px; letter-spacing: -0.8px; line-height: 30px;}
   .container > main .preview .preview_wrap .swiper-slide.security > li > div > p {font-size: 16px; letter-spacing: -0.64px; line-height: 23px; padding-top: 7px;}
   .container > main .preview .preview_wrap .swiper-slide.security > li > div > span {font-size: 14px; letter-spacing: -0.56px; line-height: 26px; padding-top: 10px;}
   .container > main .preview .preview_wrap .swiper-slide.security > li:nth-of-type(1) > div:nth-of-type(2) {max-width: 280px; margin-right: 28px;}
@@ -129,7 +129,7 @@
   .container > main .merit {background-color: #F5F7FD; padding-bottom: 30px;}
   .container > main .merit > .inner {padding: 46px 20px 32px;}
   .container > main .merit > .inner > div > p {font-size: 18px; letter-spacing: -0.54px; line-height: 30px;}
-  .container > main .merit > .inner > div > h1 {font-size: 24px; letter-spacing: -0.72px; line-height: 32px; padding-top: 16px;}
+  .container > main .merit > .inner > div > h2 {font-size: 24px; letter-spacing: -0.72px; line-height: 32px; padding-top: 16px;}
   .container > main .merit > .inner > div > div > button {width: 28px; height: 28px; min-width: 28px;}
   .container > main .merit .merit_wrap .swiper-slide {padding: 28px 24px 24px;}
   .container > main .merit .merit_wrap .swiper-slide > p {font-size: 20px; letter-spacing: -0.8px; line-height: 28px;}
@@ -145,7 +145,7 @@
   .container > main .feature {padding-bottom: 40px;}
   .container > main .feature > .inner {padding: 48px 20px 32px;}
   .container > main .feature > .inner > p {font-size: 18px; letter-spacing: -0.72px; line-height: 30px;}
-  .container > main .feature > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
+  .container > main .feature > .inner > h2 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
   .container > main .feature > .inner > div {padding-top: 30px;}
   .container > main .feature > .inner > div > div {gap: 6px;}
   .container > main .feature > .inner > div > div > a {height: 35px; padding: 0 18px; font-size: 16px; letter-spacing: -0.48px;}
@@ -156,7 +156,7 @@
   .container > main .report {padding-bottom: 66px;}
   .container > main .report > .inner {padding: 48px 20px 32px;}
   .container > main .report > .inner > div > p {font-size: 18px; letter-spacing: -0.72px; line-height: 30px;}
-  .container > main .report > .inner > div > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
+  .container > main .report > .inner > div > h2 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px; padding-top: 16px;}
   .container > main .report > .inner > div > div > button {width: 28px; height: 28px; min-width: 28px;}
   .container > main .report .report_wrap .swiper-slide {padding: 20px 34px 45px;}
   /* .container > main .report .report_wrap .swiper-slide:hover {display: none;} */
@@ -164,14 +164,14 @@
   /* .container > main .report .report_wrap .swiper-slide > div > div:nth-of-type(2) {display: none;} */
 
   .container > main .client > div {padding: 58px 0 52px;}
-  .container > main .client > div > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 34px; padding-bottom: 50px;}
+  .container > main .client > div > h2 {font-size: 24px; letter-spacing: -0.96px; line-height: 34px; padding-bottom: 50px;}
   .container > main .client > div > div:not(.marquee_wrap) {display: none;}
   .container > main .client .marquee_track > div {height: 38px; padding: 0 10px;}
   .container > main .client .marquee_track > div + div {margin-left: 12px;}
   .container > main .client .marquee + .marquee {margin-top: 20px;}
 
   .container > main .notification > .inner {padding: 48px 20px 60px;}
-  .container > main .notification > .inner > div > h1 {font-size: 24px; letter-spacing: -0.96px;}
+  .container > main .notification > .inner > div > h2 {font-size: 24px; letter-spacing: -0.96px;}
   .container > main .notification > .inner > div > a {display: none;}
   .container > main .notification > .inner > ul {padding-top: 36px;}
   .container > main .notification > .inner > ul > li + li {margin-top: 14px;}
@@ -179,17 +179,17 @@
   .container > main .notification > .inner > ul > li > span {font-size: 14px; letter-spacing: -0.42px; line-height: 28px;}
 
   .container > main .introduce > .inner {padding: 65px 20px 62px;}
-  .container > main .introduce > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px;}
+  .container > main .introduce > .inner > h2 {font-size: 24px; letter-spacing: -0.96px; line-height: 32px;}
   .container > main .introduce > .inner > ul {margin-top: 46px;}
   .container > main .introduce > .inner > ul > li > div::before {top: 15px;}
   .container > main .introduce > .inner > ul > li > div + div {padding-top: 32px;}
   .container > main .introduce > .inner > ul > li > div > i {width: 92px; height: 65px; min-width: 92px; background-size: cover !important;}
-  .container > main .introduce > .inner > ul > li > div > h6 {padding-top: 10px; font-size: 26px; letter-spacing: -0.52px;}
+  .container > main .introduce > .inner > ul > li > div > h3 {padding-top: 10px; font-size: 26px; letter-spacing: -0.52px;}
   .container > main .introduce > .inner > ul > li > div > p {font-size: 16px; letter-spacing: -0.32px; line-height: 22px;}
   .container > main .introduce > .inner > ul > li > div > span {display: none;}
 
   .container > main .help > .inner {padding: 48px 20px;}
-  .container > main .help > .inner > h1 {font-size: 24px; letter-spacing: -0.96px; line-height: 30px;}
+  .container > main .help > .inner > h2 {font-size: 24px; letter-spacing: -0.96px; line-height: 30px;}
   .container > main .help > .inner > ul {padding-top: 32px; gap: 16px; grid-template-columns: repeat(2, 1fr);}
   .container > main .help > .inner > ul > li > a {padding: 22px 22px 28px;}
   .container > main .help > .inner > ul > li > a > i {width: 55px; height: 55px; min-width: 55px;}
@@ -199,8 +199,8 @@
   .container > main .help > .inner > ul > li > a > div > span {font-size: 17px; letter-spacing: -0.34px;}
 
   .container > main .inquiry > .inner {padding: 74px 20px 76px;}
-  .container > main .inquiry > .inner > h1 {font-size: 22px; letter-spacing: -0.88px; line-height: 36px;}
-  .container > main .inquiry > .inner > h1 > strong {font-size: 30px; letter-spacing: -1.2px; line-height: 36px;}
+  .container > main .inquiry > .inner > h2 {font-size: 22px; letter-spacing: -0.88px; line-height: 36px;}
+  .container > main .inquiry > .inner > h2 > strong {font-size: 30px; letter-spacing: -1.2px; line-height: 36px;}
   .container > main .inquiry > .inner > div > a {height: 44px; padding: 0 58px; font-size: 21px;}
 
   .container.inquiry > main section > .inner > form > ul {gap: 25px;}
