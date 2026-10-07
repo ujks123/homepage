@@ -2,6 +2,9 @@
 const visualSwiper = new Swiper(".visual_wrap .swiper", {
   slidesPerView: 1,
   effect: 'fade',
+  fadeEffect: {
+    crossFade: true,
+  },
   allowTouchMove: false,
   speed: 1000,
   autoplay: {

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1196" height="620.752" viewBox="0 0 1196 620.752">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1196" height="613.002" viewBox="0 0 1196 613.002">
   <defs>
     <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#697aff"/>
@@ -14,28 +14,27 @@
     </linearGradient>
     <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#fff"/>
+      <stop offset="0" stop-color="#fff" stop-opacity="0.655"/>
+      <stop offset="0.399" stop-color="#e3f1ff" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#e3ebff" stop-opacity="0.808"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
       <stop offset="0.399" stop-color="#e3f1ff"/>
       <stop offset="1" stop-color="#c6d1ff"/>
     </linearGradient>
-    <filter id="패스_12812" x="88.249" y="0" width="1020.504" height="582.5" filterUnits="userSpaceOnUse">
+    <filter id="패스_12811" x="95.999" y="0" width="1005.004" height="566" filterUnits="userSpaceOnUse">
       <feOffset dy="-3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feFlood flood-color="#555a81" flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="패스_12811" x="95.999" y="7.75" width="1005.004" height="566" filterUnits="userSpaceOnUse">
-      <feOffset dy="-3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-2"/>
-      <feFlood flood-color="#555a81" flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-2"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <filter id="외곽창" x="96.248" y="11" width="1004.5" height="565.5" filterUnits="userSpaceOnUse">
+    <filter id="외곽창" x="96.248" y="3.25" width="1004.5" height="565.5" filterUnits="userSpaceOnUse">
       <feOffset input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
       <feFlood flood-opacity="0.102"/>
-      <feComposite operator="in" in2="blur-3"/>
+      <feComposite operator="in" in2="blur-2"/>
       <feComposite in="SourceGraphic"/>
     </filter>
     <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="0.669" gradientUnits="objectBoundingBox">
@@ -43,7 +42,7 @@
       <stop offset="1" stop-color="#ade6ff"/>
     </linearGradient>
   </defs>
-  <g id="_노트북과웹화면" data-name="/노트북과웹화면" transform="translate(-88.454 -532.25)">
+  <g id="_노트북과웹화면" data-name="/노트북과웹화면" transform="translate(-88.454 -540)">
     <g id="_노트북_코발트바이올렛" data-name="/노트북_코발트바이올렛" transform="translate(-33.998)">
       <rect id="바닥그림자" width="1148" height="11" rx="5.5" transform="translate(146.451 1142.002)" opacity="0.115" fill="url(#linear-gradient)"/>
       <g id="_본체" data-name="/본체" transform="translate(201.453 545)">
@@ -54,18 +53,16 @@
         </g>
       </g>
       <g id="_모니터" data-name="/모니터" transform="translate(201.453 545)">
-        <g transform="matrix(1, 0, 0, 1, -79, -12.75)" filter="url(#패스_12812)" style="mix-blend-mode: multiply;isolation: isolate">
-          <path id="패스_12812-2" data-name="패스 12812" d="M20.375,0h961a20.375,20.375,0,0,1,20.375,20.375v523a20.375,20.375,0,0,1-20.375,20.375h-961A20.375,20.375,0,0,1,0,543.375v-523A20.375,20.375,0,0,1,20.375,0Z" transform="translate(97.62 12.38)" stroke="#bcccff" stroke-width="0.75" fill="url(#linear-gradient-4)"/>
-        </g>
-        <g transform="matrix(1, 0, 0, 1, -79, -12.75)" filter="url(#패스_12811)">
-          <path id="패스_12811-2" data-name="패스 12811" d="M13.625,0h959a13.625,13.625,0,0,1,13.625,13.625v520a13.625,13.625,0,0,1-13.625,13.625h-959A13.625,13.625,0,0,1,0,533.625v-520A13.625,13.625,0,0,1,13.625,0Z" transform="translate(105.37 20.13)" stroke="#bcccff" stroke-width="0.75" fill="url(#linear-gradient-4)"/>
+        <path id="패스_12812" data-name="패스 12812" d="M20.375,0h961a20.375,20.375,0,0,1,20.375,20.375v523a20.375,20.375,0,0,1-20.375,20.375h-961A20.375,20.375,0,0,1,0,543.375v-523A20.375,20.375,0,0,1,20.375,0Z" transform="translate(18.623 -0.375)" stroke="#7590e6" stroke-width="0.75" fill="url(#linear-gradient-4)"/>
+        <g transform="matrix(1, 0, 0, 1, -79, -5)" filter="url(#패스_12811)">
+          <path id="패스_12811-2" data-name="패스 12811" d="M13.625,0h959a13.625,13.625,0,0,1,13.625,13.625v520a13.625,13.625,0,0,1-13.625,13.625h-959A13.625,13.625,0,0,1,0,533.625v-520A13.625,13.625,0,0,1,13.625,0Z" transform="translate(105.37 12.38)" stroke="#bcccff" stroke-width="0.75" fill="url(#linear-gradient-5)"/>
         </g>
       </g>
     </g>
     <g id="_UI_웹_드라이브" data-name="/UI_웹_드라이브" transform="translate(194.453 584.281)">
       <g id="_화이트브라우저창" data-name="/화이트브라우저창" transform="translate(-242.453 -612.281)">
-        <g transform="matrix(1, 0, 0, 1, 136.45, 560.25)" filter="url(#외곽창)" style="mix-blend-mode: multiply;isolation: isolate">
-          <g id="외곽창-2" data-name="외곽창" transform="translate(106 20.75)" fill="#fff">
+        <g transform="matrix(1, 0, 0, 1, 136.45, 568)" filter="url(#외곽창)" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="외곽창-2" data-name="외곽창" transform="translate(106 13)" fill="#fff">
             <path d="M 972 546.375 L 13 546.375 C 9.427374839782715 546.375 6.068624973297119 544.9837646484375 3.542500019073486 542.4576416015625 C 1.016250014305115 539.931396484375 -0.375 536.5726318359375 -0.375 533 L -0.375 13 C -0.375 9.427499771118164 1.016250014305115 6.068749904632568 3.542500019073486 3.542500019073486 C 6.068749904632568 1.016250014305115 9.427499771118164 -0.375 13 -0.375 L 972 -0.375 C 975.5726318359375 -0.375 978.931396484375 1.016250014305115 981.4576416015625 3.542500019073486 C 983.9837646484375 6.068624973297119 985.375 9.427374839782715 985.375 13 L 985.375 533 C 985.375 536.5726318359375 983.9837646484375 539.931396484375 981.4576416015625 542.4576416015625 C 978.931396484375 544.9837646484375 975.5726318359375 546.375 972 546.375 Z" stroke="none"/>
             <path d="M 13 0 C 5.82025146484375 0 0 5.82025146484375 0 13 L 0 533 C 0 540.1796264648438 5.82025146484375 546 13 546 L 972 546 C 979.1796264648438 546 985 540.1796264648438 985 533 L 985 13 C 985 5.82025146484375 979.1796264648438 0 972 0 L 13 0 M 13 -0.75 L 972 -0.75 C 975.6727294921875 -0.75 979.1256103515625 0.68023681640625 981.7227783203125 3.2772216796875 C 984.3197631835938 5.874267578125 985.75 9.3272705078125 985.75 13 L 985.75 533 C 985.75 536.6727294921875 984.3197631835938 540.1256103515625 981.7227783203125 542.7227783203125 C 979.1256103515625 545.3197631835938 975.6727294921875 546.75 972 546.75 L 13 546.75 C 9.3272705078125 546.75 5.874267578125 545.3197631835938 3.2772216796875 542.7227783203125 C 0.68023681640625 540.1256103515625 -0.75 536.6727294921875 -0.75 533 L -0.75 13 C -0.75 9.3272705078125 0.68023681640625 5.874267578125 3.2772216796875 3.2772216796875 C 5.874267578125 0.68023681640625 9.3272705078125 -0.75 13 -0.75 Z" stroke="none" fill="#bccbff"/>
           </g>
@@ -534,8 +531,9 @@
                 <path id="패스_6" data-name="패스 6" d="M2.718,0,3.26,2.332q.165.7.319,1.526h.068a14.5,14.5,0,0,1,.3-1.526L4.525,0H5.966l.569,2.332c.11.43.216.939.32,1.526h.068a13.626,13.626,0,0,1,.309-1.526L7.841,0H9.2L7.783,4.627a.9.9,0,0,1-.957.663.833.833,0,0,1-.9-.663L5.521,3.138a13.884,13.884,0,0,1-.309-1.593H5.164a14.77,14.77,0,0,1-.31,1.593L4.488,4.627a.851.851,0,0,1-.928.663.889.889,0,0,1-.947-.663L1.24,0Z" transform="translate(5.534 5.359)" fill="#fff"/>
               </g>
             </g>
-            <g id="btn_캘린더" transform="translate(9.703 131.567)">
-              <g id="icon_캘린더" transform="translate(0.686 0.69)">
+            <g id="btn_캘린더" transform="translate(9.702 131.567)">
+              <rect id="btn_BoundaryBG_Dimmed-4" data-name="btn_BoundaryBG_Dimmed" width="42" height="42" transform="translate(-9.702 -6.568)" fill="none" opacity="0.076"/>
+              <g id="icon_캘린더" transform="translate(0.686 2.69)">
                 <rect id="BoundaryBG_ClearT-26" data-name="BoundaryBG_ClearT" width="20.71" height="20.309" transform="translate(0 0.547)" fill="none" opacity="0.66"/>
                 <path id="사각형_4" data-name="사각형 4" d="M1.607,1.611V16.918H16.874V1.611H1.607M1.607,0H16.874a1.609,1.609,0,0,1,1.607,1.611V16.918a1.609,1.609,0,0,1-1.607,1.611H1.607A1.609,1.609,0,0,1,0,16.918V1.611A1.609,1.609,0,0,1,1.607,0Z" transform="translate(1.525 1.813)" fill="#fff"/>
                 <path id="선_3" data-name="선 3" d="M-.179,4.639A.813.813,0,0,1-1,3.834V-.194A.813.813,0,0,1-.179-1a.813.813,0,0,1,.821.806V3.834A.813.813,0,0,1-.179,4.639Z" transform="translate(6.514 1)" fill="#fff"/>
@@ -549,6 +547,15 @@
                 <rect id="사각형_7" data-name="사각형 7" width="2.071" height="2.072" transform="translate(12.716 7.797)" fill="#fff"/>
                 <rect id="사각형_8" data-name="사각형 8" width="2.071" height="2.072" transform="translate(12.716 10.673)" fill="#fff"/>
                 <rect id="사각형_11" data-name="사각형 11" width="2.071" height="2.072" transform="translate(12.716 13.605)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="btn_게시판" transform="translate(9.702 173.567)">
+              <rect id="btn_BoundaryBG_Dimmed-5" data-name="btn_BoundaryBG_Dimmed" width="42" height="42" transform="translate(-9.702 -6.568)" fill="none" opacity="0.076"/>
+              <g id="그룹_14283" data-name="그룹 14283" transform="translate(-0.36 -1.439)">
+                <path id="사각형_790" data-name="사각형 790" d="M1.931,1.545a.387.387,0,0,0-.386.386V16.6a.387.387,0,0,0,.386.386H16.6a.387.387,0,0,0,.386-.386V1.931a.387.387,0,0,0-.386-.386H1.931M1.931,0H16.6a1.931,1.931,0,0,1,1.931,1.931V16.6A1.931,1.931,0,0,1,16.6,18.535H1.931A1.931,1.931,0,0,1,0,16.6V1.931A1.931,1.931,0,0,1,1.931,0Z" transform="translate(2.3 4.449)" fill="#fff"/>
+                <rect id="사각형_791" data-name="사각형 791" width="10.04" height="1.545" rx="0.772" transform="translate(6.45 10.273)" fill="#fff"/>
+                <rect id="사각형_792" data-name="사각형 792" width="10.04" height="1.545" rx="0.772" transform="translate(6.45 13.362)" fill="#fff"/>
+                <rect id="사각형_793" data-name="사각형 793" width="6.178" height="1.545" rx="0.772" transform="translate(6.45 16.451)" fill="#fff"/>
               </g>
             </g>
           </g>
